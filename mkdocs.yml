@@ -1,0 +1,62 @@
+site_name: Case Studies - ANAC
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - neoteroi.cards
+  - neoteroi.timeline
+
+nav:
+  - Inicio: 
+      - Inicio: index.md
+  - Casos de Estudo:
+      - Início: case-studies/index.md
+      - Casos: case-studies/hub-1-ciclo.md
+
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.footer
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para a preferência do sistema
+
+  language: pt-BR
+  favicon: assets/simbolo_itrac.png
+  logo: assets/logo_itrac.svg
+
+extra:
+  version:
+    provider: mike
+
+extra_css: 
+  - stylesheets/style.css
+  - stylesheets/neoteroi-mkdocs.css
+  - stylesheets/neoteroi-cards.css
+  - stylesheets/neoteroi-timeline.css

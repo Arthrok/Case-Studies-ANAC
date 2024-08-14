@@ -1,0 +1,74 @@
+[data-md-color-scheme="claro"] {
+    --md-primary-fg-color: #103B61 !important;
+    --md-accent-fg-color: blue;
+    --md-code-bg-color: rgb(255, 255, 255);
+    --md-code-fg-color: rgb(0, 0, 0);
+    --md-typeset-a-color: #103B61(211, 0, 0);
+  }
+  
+  [data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #103B61;
+    --md-accent-fg-color: #103B61(255, 0, 0) !important;
+    --md-default-bg-color: #000000;
+    --md-typeset-a-color: #103B61(255, 0, 0, 0.85) !important;
+    --md-code-bg-color: rgb(0, 0, 0);
+    --md-typeset-table-color: rgba(255, 255, 255, 0.211);
+    --md-typeset-table-color--light: rgba(128, 128, 128, 0.157);
+  }
+  
+  [data-md-color-scheme="claro"] img[src$="#only-dark"],
+  [data-md-color-scheme="claro"] img[src$="#gh-dark-mode-only"] {
+    display: none;
+  }
+  
+  [data-md-color-scheme="slate"] img[src$="#only-light"],
+  [data-md-color-scheme="slate"] img[src$="#gh-light-mode-only"] {
+    display: none;
+  }
+  
+  body {
+    text-align: justify;
+  }
+  
+  p {
+    text-indent: 1em;
+  }
+
+  .md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: 200px;
+    height: auto;
+}
+
+
+
+/* Centraliza a navbar */
+.md-grid {
+    display: flex;
+    justify-content: center;
+}
+
+/* Aumenta o tamanho da fonte e estiliza os itens da navbar */
+.md-tabs__link {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+/* Adiciona a borda inferior */
+.md-tabs__link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background-color: transparent;
+}
+
+/* Borda inferior azul claro quando a opção estiver selecionada */
+.md-tabs__item--active .md-tabs__link::after {
+    width: 100%;
+    background-color: rgb(91, 245, 194);
+}
+
