@@ -1,4 +1,4 @@
-site_name: Nome_Maneiro
+site_name: --
 
 markdown_extensions:
   - admonition
@@ -22,8 +22,6 @@ markdown_extensions:
 
 
 nav:
-  - Inicio: 
-      - Inicio: index.md
   - Casos de Estudo:
       - Início: case-studies/index.md
       - Casos: case-studies/diario-bordo.md
