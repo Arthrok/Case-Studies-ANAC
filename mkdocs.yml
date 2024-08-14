@@ -21,8 +21,9 @@ markdown_extensions:
 nav:
   - Inicio: 
       - Inicio: index.md
-  - Teste:
-      - Inicio: index2.md
+  - Casos de Estudo:
+      - Início: case-studies/index.md
+      - Casos: case-studies/hub-1-ciclo.md
 
 
 theme:
