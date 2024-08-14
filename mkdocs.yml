@@ -1,4 +1,4 @@
-site_name: Casos de Estudo ANAC
+site_name: Estudos de Caso ANAC
 
 markdown_extensions:
   - admonition
@@ -22,9 +22,10 @@ markdown_extensions:
 
 
 nav:
-  - Casos de Estudo:
+  - Oficinas:
       - Início: case-studies/index.md
       - Casos: case-studies/diario-bordo.md
+  - Metodologias: index.md
 
 
 theme:
