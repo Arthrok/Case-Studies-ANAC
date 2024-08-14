@@ -2,12 +2,12 @@
 
 - title: HUB Financeiro
   content: Oficina HUB Financeiro realizada no CT da ANAC com objetivo.
-  image: ./img/icons/001-zeus.png
+  image: ./assets/diario-bordo.jpg
   url: /case-studies/hub-1-ciclo/
 
 - title: Athena
   content: Lorem ipsum dolor sit amet.
-  image: ./img/icons/003-athena.png
+  image: ./assets/diario-bordo.jpg
 
 - title: Poseidon
   content: Lorem ipsum dolor sit amet.
@@ -26,3 +26,6 @@
   image: ./img/icons/027-nike.png
 
 ::/cards::
+
+
+![Descrição da Imagem](./assets/diario-bordo.jpg)

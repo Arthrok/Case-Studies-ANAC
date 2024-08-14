@@ -17,13 +17,16 @@ markdown_extensions:
       alternate_style: true
   - neoteroi.cards
   - neoteroi.timeline
+  - attr_list
+  - md_in_html
+
 
 nav:
   - Inicio: 
       - Inicio: index.md
   - Casos de Estudo:
       - Início: case-studies/index.md
-      - Casos: case-studies/hub-1-ciclo.md
+      - Casos: case-studies/diario-bordo.md
 
 
 theme:
