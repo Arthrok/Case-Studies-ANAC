@@ -1,4 +1,4 @@
-site_name: --
+site_name: Casos de Estudo ANAC
 
 markdown_extensions:
   - admonition
