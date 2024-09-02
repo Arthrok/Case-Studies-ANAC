@@ -24,7 +24,10 @@ markdown_extensions:
 nav:
   - Oficinas:
       - Início: case-studies/index.md
-      - Casos: case-studies/diario-bordo.md
+      - Casos: 
+        - Diário de Bordo: case-studies/diario-bordo.md
+        - HUB Financeiro: case-studies/hub-financeiro.md
+  
   - Metodologias: index.md
 
 
