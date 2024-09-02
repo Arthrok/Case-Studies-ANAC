@@ -35,5 +35,17 @@
 </div>
 
 
+## O Desafio
 
+A ANAC precisa enfrentar a complexidade dos seus processos para criar um ambiente mais ágil e confiável na prestação de serviços regulados. Atualmente, desafios como formalismo excessivo, falta de clareza e procedimentos complicados resultam em frustração e baixa eficiência. Há uma necessidade urgente de simplificar o acesso aos serviços, melhorar a comunicação com os usuários e unificar as informações de maneira que facilitem tanto o atendimento quanto a gestão interna. A eficiência e a segurança são os pilares essenciais para transformar a experiência dos usuários e fortalecer a confiança na administração.
 
+## A Corrida
+
+Como esta foi a primeira oficina do HUB Financeiro, Marcelo Ortega, colaborador do ITRAC, garantiu que o material da oficina incluísse instruções passo a passo para cada metodologia. Ele também aplicou o quebra-gelo, fazendo perguntas que estimularam a criatividade e a interação da equipe do HUB Financeiro.
+
+<div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
+    <img src="/assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
+    <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">Se você fosse um livro, qual seria o título do próximo capítulo? Se você pudesse visitar qualquer lugar no mundo, real ou imaginário, onde iria e o que faria lá?</p>
+</div>
+
+A preparação da oficina incluiu a definição de um escopo claro, mas com espaço para inovação. Marcelo Ortega garantiu que os principais stakeholders e funcionários diretamente envolvidos nesses serviços estivessem prontos para participar. A oficina resultou em protótipos de baixa fidelidade, que foram testados com usuários do serviço.

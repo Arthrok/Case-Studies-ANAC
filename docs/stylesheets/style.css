@@ -72,3 +72,6 @@
     background-color: rgb(91, 245, 194);
 }
 
+p {
+  text-indent: 0;
+}
