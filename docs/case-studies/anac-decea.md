@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between;">
     <!-- Coluna da pergunta -->
     <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-        <img src="./assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
+        <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
         <p style="font-size: 18px; color: #666; margin: 0;">A Oficina de Integração DECEA e ANAC mostra-se como uma grande oportunidade para evoluir nossa visão em termos de operações aéreas.​</p>
     </div>
 
@@ -53,7 +53,7 @@ A tarefa seguinte foi a **Apresentação das áreas**, cujo objetivo era mostrar
 A próxima tarefa foi a **Colcha de Retalhos**, que consistia basicamente em refletir sobre os benefícios de realizar integrações. Para essa atividade, cada participante teve que escrever em post-its respostas para a pergunta: 
 
 <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="./assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
+    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
     <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">Quais benefícios poderiam ser alcançados com uma maior integração entre a ANAC e o DECEA?</p>
 </div>
 
@@ -64,12 +64,12 @@ A última atividade do primeiro dia foi o **Caldeirão de Serviços**, em que ca
 No segundo e último dia de oficina, pela manhã, antes do início das atividades, foi feita uma recapitulação do que havia ocorrido no dia anterior. Para iniciar a segunda parte da oficina, a atividade elaborada foi o **Toró de Integrações**, cujo objetivo era gerar uma lista de integrações. A dinâmica funcionava da seguinte maneira: os participantes detalhavam cada serviço do seu caldeirão, e para cada serviço, definiam o nome da integração (em post-its amarelos), o objetivo (em post-its azuis) e os serviços/dados/sistemas relacionados (em post-its vermelhos). Eles se orientavam pelas perguntas: 
 
 <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="./assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
+    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
     <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">"ANAC: O que o DECEA tem que poderia melhorar seus serviços/dados/sistemas?" </p>
 </div>
 
 <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="./assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
+    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
     <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;"> "DECEA: O que a ANAC tem que poderia melhorar seus serviços/dados/sistemas?"</p>
 </div>
 
