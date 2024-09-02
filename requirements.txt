@@ -1,1 +1,1 @@
-neoteroi-mkdocs
+neoteroi-mkdocs==1.1.0
