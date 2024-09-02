@@ -3,7 +3,7 @@
 <div style="display: flex; justify-content: space-between;">
     <!-- Coluna da pergunta -->
     <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-        <img src="/assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
+        <img src="./assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
         <p style="font-size: 18px; color: #666; margin: 0;">Como podemos propiciar um ambiente de um todo, que, tome mais célere, simples e eficiente a obtenção de serviços que demandem pagamentos por regulados e, de outro, mais segura e confiável a gestão de créditos?</p>
     </div>
 
@@ -44,7 +44,7 @@ A ANAC precisa enfrentar a complexidade dos seus processos para criar um ambient
 Como esta foi a primeira oficina do HUB Financeiro, Marcelo Ortega, colaborador do ITRAC, garantiu que o material da oficina incluísse instruções passo a passo para cada metodologia. Ele também aplicou o quebra-gelo, fazendo perguntas que estimularam a criatividade e a interação da equipe do HUB Financeiro.
 
 <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="/assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
+    <img src="./assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
     <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">Se você fosse um livro, qual seria o título do próximo capítulo? Se você pudesse visitar qualquer lugar no mundo, real ou imaginário, onde iria e o que faria lá?</p>
 </div>
 
