@@ -4,7 +4,7 @@
     <!-- Coluna da pergunta -->
     <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
         <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
-        <p style="font-size: 18px; color: #666; margin: 0;">Como podemos propiciar um ambiente de um todo, que, tome mais célere, simples e eficiente a obtenção de serviços que demandem pagamentos por regulados e, de outro, mais segura e confiável a gestão de créditos?​</p>
+        <p style="font-size: 18px; color: #666; margin: 0;">A Oficina de Integração DECEA e ANAC mostra-se como uma grande oportunidade para evoluir nossa visão em termos de operações aéreas.</p>
     </div>
 
     <!-- Coluna de estatísticas e métodos -->
@@ -21,7 +21,7 @@
                 <h3 style="font-size: 16px; color: #666;">MÉTODOS USADOS</h3>
                     <ul style="list-style-type: none; padding: 0; margin: 0;">
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Quebra-Gelo</a></li>
-                        <li><a href="#" style="color: #1a73e8; text-decoration: none;">Palestras das áreas​</a></li>
+                        <li><a href="#" style="color: #1a73e8; text-decoration: none;">Palestras das áreas​​</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Colcha de retalhos</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Feira de serviços</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Caldeirão de serviços</a></li>
@@ -34,6 +34,7 @@
         </div>
     </div>
 </div>
+
 
 
 ## O Desafio
