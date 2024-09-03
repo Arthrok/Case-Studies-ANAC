@@ -24,6 +24,8 @@
   font-size: 0.8rem;
   border-bottom: 2px dashed #ccc;
   padding-bottom: 1.2rem;
+  text-align: justify;
+  color: #3c4043;
 }
 .nt-timeline.horizontal .nt-timeline-items {
   flex-direction: row;

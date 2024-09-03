@@ -1,24 +1,26 @@
 [
     {
-        "title": "Launch",
-        "content": "First implementation.",
-        "sub_title": "2022-Q1"
+        "title": "Dia 1: Manhã",
+        "content": "O dia começou com uma abertura, onde foi feita a contextualização do projeto e uma visão geral das atividades. Em seguida, a equipe participou de um quebra-gelo para iniciar a colaboração criativa. Após essa dinâmica inicial, os participantes se dividiram em grupos para a enunciação do problema e, logo depois, definiram as perguntas para a próxima etapa. Após um breve intervalo, cada grupo compartilhou como percebia o problema e explorou diferentes maneiras de abordá-lo. A manhã continuou com a categorização e rotulação do problema, encerrando com as apresentações dos grupos e a ressignificação do problema discutido."
     },
     {
-        "title": "One",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "key": "cyan",
-        "sub_title": "2022-Q2"
+        "title": "Dia 1: Tarde",
+        "content": "A tarde começou com a dinâmica 'É, Não é, Faz, Não Faz', onde os grupos discutiram e delinearam os limites e possibilidades do problema. Em seguida, as ideias foram consolidadas para criar uma visão coesa. Após isso, a equipe trabalhou na definição dos perfis de usuário (personas), novamente em grupos, para entender melhor as necessidades e expectativas dos usuários. Após uma nova consolidação das ideias, o time participou de um brainstorming criativo usando a técnica Crazy 8, focado em gerar soluções para melhorar a satisfação do usuário. Por fim, as ideias foram priorizadas e consolidadas por meio de uma votação por pontos."
     },
     {
-        "title": "Two",
-        "content": "Lorem ipsum dolor sit amet.",
-        "sub_title": "2022-Q3"
+        "title": "Dia 2: Manhã",
+        "content": "A manhã começou com a criação das jornadas do usuário, onde a equipe mapeou as experiências e interações dos usuários com o serviço proposto. Em seguida, houve a seleção das melhores ideias geradas anteriormente, culminando na definição do escopo do protótipo a ser desenvolvido, garantindo que as soluções escolhidas fossem alinhadas com as necessidades dos usuários e objetivos do projeto."
     },
     {
-        "title": "Three",
-        "content": "Lorem ipsum dolor sit amet.",
-        "key": "pink",
-        "sub_title": "2022-Q4"
+        "title": "Dia 2: Tarde",
+        "content": "A tarde começou com a construção de um storyboard, onde os participantes detalharam a sequência das interações dos usuários com o serviço. Em seguida, foi realizado um benchmarking, no qual os participantes sugeriram telas e interfaces que já utilizaram e nas quais tiveram boas experiências. Por fim, a equipe iniciou a construção do wireframe, esboçando as primeiras versões das telas e funcionalidades do protótipo com base nas ideias discutidas."
+    },
+    {
+        "title": "Dia 3: Manhã",
+        "content": "A manhã começou com o desenvolvimento dos wireframes, onde a equipe do ITRAC utilizou o Figma para criar os protótipos. Durante esse processo, os membros do Hub Financeiro, que atuaram como principais interessados, participaram ativamente, orientando e fornecendo feedbacks para garantir que os protótipos atendessem às necessidades e expectativas do projeto. Em seguida, houve a consolidação dos protótipos, unindo todas as contribuições para criar uma versão coesa e funcional, pronta para ser testada."
+    },
+    {
+        "title": "Dia 3: Tarde",
+        "content": "A tarde foi inteiramente dedicada aos testes com usuários, onde os protótipos desenvolvidos foram avaliados para verificar sua eficácia e alinhar as próximas etapas do projeto. Os próximos passos no ciclo de melhoria dos serviços do ecossistema do Hub Financeiro incluem o refinamento dos protótipos com base nos feedbacks obtidos nos testes com usuários. Esse processo visa garantir que os serviços evoluam continuamente, mantendo o foco na qualidade e na experiência do cidadão."
     }
 ]
