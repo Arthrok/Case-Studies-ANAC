@@ -4,7 +4,7 @@
     <!-- Coluna da pergunta -->
     <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
         <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
-        <p style="font-size: 18px; color: #666; margin: 0;">Como podemos propiciar um ambiente de um todo, que, tome mais célere, simples e eficiente a obtenção de serviços que demandem pagamentos por regulados e, de outro, mais segura e confiável a gestão de créditos?</p>
+        <p style="font-size: 18px; color: #666; margin: 0; align-self: flex-start; padding-top: 15px;">Como podemos propiciar um ambiente de um todo, que, tome mais célere, simples e eficiente a obtenção de serviços que demandem pagamentos por regulados e, de outro, mais segura e confiável a gestão de créditos?</p>
     </div>
 
     <!-- Coluna de estatísticas e métodos -->
@@ -53,3 +53,6 @@ A preparação da oficina incluiu a definição de um escopo claro, mas com espa
 ## Destaques da Oficina
 
 [timeline center alternate(./docs/timeline/hub-financeiro-1-ciclo.json)]
+
+
+## O resultado
