@@ -56,3 +56,7 @@ A preparação da oficina incluiu a definição de um escopo claro, mas com espa
 
 
 ## O resultado
+
+Com base na oficina realizada, a equipe do Hub Financeiro, em colaboração com o ITRAC, desenvolveu e refinou o protótipo validado, alinhando-o às necessidades identificadas durante os testes com usuários. O protótipo foi testado por usuários-chave, resultando em insights valiosos para o aprimoramento dos serviços. A priorização das funcionalidades permitiu focar em melhorias que já começaram a impactar positivamente a experiência dos usuários.
+
+Além de atender aos objetivos imediatos da oficina, o processo também estabeleceu um ciclo contínuo de melhoria. A partir desse aprendizado, o Hub Financeiro implementou a prática regular de testes de usuário, assegurando que os futuros desenvolvimentos estejam sempre centrados nas necessidades reais dos cidadãos e alinhados às melhores práticas de design de serviço.
