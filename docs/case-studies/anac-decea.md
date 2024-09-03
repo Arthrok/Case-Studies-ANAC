@@ -39,7 +39,7 @@
 
 ## O Desafio
 
-Nos dias 16 e 17 de julho de 2024, foi realizada uma oficina para a ANAC, com o objetivo de desenvolver um roadmap de integração entre a ANAC e o DECEA. Como dito anteriormente, o objetivo central desta iniciativa é desenvolver um roadmap de integrações entre as duas organizações, focando em evidenciar serviços/dados de interesse entre ANAC e DECEA​; listar possíveis integrações, como fazer e barreiras​; e elaborar um roadmap de médio e longo prazo​.
+Esta oficina foi realizada com o objetivo de desenvolver um roadmap de integração entre a ANAC e o DECEA. Como dito anteriormente, o objetivo central desta iniciativa é desenvolver um roadmap de integrações entre as duas organizações, focando em evidenciar serviços/dados de interesse entre ANAC e DECEA​; listar possíveis integrações, como fazer e barreiras​; e elaborar um roadmap de médio e longo prazo​.
 
 ## A equipe
 
@@ -47,41 +47,13 @@ Os professores Glauco Vitor, John Lenon e Wander Cleber foram os facilitadores q
 
 ## A oficina
 
-O primeiro dia ocorreu ao longo de todo o dia, das 8h às 18h, com intervalos para o almoço e coffee break. Na parte da manhã, aconteceram as boas-vindas e a introdução da oficina para situar os participantes sobre o objetivo da mesma. Para descontrair e apresentar os participantes, foi realizada uma sessão de **quebra-gelo**, onde cada um deveria dizer seu nome, área de atuação e compartilhar algo que gostasse ou uma experiência que gostaria de dividir, "conectando-se" ao participante anterior.
+Nos dias 16 e 17 de julho de 2024, a ANAC sediou a primeira oficina de Safety Intelligence em seu centro de treinamento, marcando um passo importante na integração de diferentes áreas e no fortalecimento da colaboração entre as instituições. Com a participação de diversos setores da ANAC e do DECEA, a oficina teve como objetivo principal identificar oportunidades de integração de serviços e sistemas, além de explorar como essa colaboração pode aprimorar a eficiência e a segurança das operações.
 
-A tarefa seguinte foi a **Apresentação das áreas**, cujo objetivo era mostrar o que cada área envolvida na oficina utiliza de dados e serviços, e identificar interseções, utilidades ou necessidades de dados/serviços de outras áreas. Para o levantamento de insights, a dinâmica adotada foi que, durante cada apresentação, os participantes anotassem em post-its como os serviços de seu conhecimento poderiam se beneficiar ou colaborar (com dados ou serviços) com o que estava sendo apresentado.
+Durante os dois dias de atividades, os participantes foram envolvidos em uma série de dinâmicas interativas, que incluíram apresentações das áreas, discussões em grupo e sessões de brainstorming. Essas atividades foram projetadas para facilitar a troca de conhecimentos e o desenvolvimento de ideias inovadoras, culminando na criação de um roadmap para guiar os próximos passos na implementação das integrações propostas. A oficina não apenas promoveu um ambiente de colaboração, mas também estabeleceu as bases para futuras iniciativas que visam melhorar a segurança e a eficiência dos serviços prestados pela ANAC e pelo DECEA.
 
-A próxima tarefa foi a **Colcha de Retalhos**, que consistia basicamente em refletir sobre os benefícios de realizar integrações. Para essa atividade, cada participante teve que escrever em post-its respostas para a pergunta: 
+## Destaques da Oficina
 
-<div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
-    <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">Quais benefícios poderiam ser alcançados com uma maior integração entre a ANAC e o DECEA?</p>
-</div>
-
-À tarde, a primeira atividade realizada foi a **Feira de Serviços**, que consistiu em detalhar os serviços, sistemas e dados de cada área para os participantes, além de proporcionar a oportunidade de visualizar (experimentar) aqueles de interesse. Todos tiveram de 10 a 15 minutos para visitar cada área.
-
-A última atividade do primeiro dia foi o **Caldeirão de Serviços**, em que cada participante listou os serviços, sistemas e dados de interesse por parte da ANAC e do DECEA. A dinâmica consistiu em que cada participante escrevesse nos post-its quais serviços, sistemas e dados vistos durante as apresentações e a Feira de Serviços poderiam ser de interesse para sua agência ou departamento.
-
-No segundo e último dia de oficina, pela manhã, antes do início das atividades, foi feita uma recapitulação do que havia ocorrido no dia anterior. Para iniciar a segunda parte da oficina, a atividade elaborada foi o **Toró de Integrações**, cujo objetivo era gerar uma lista de integrações. A dinâmica funcionava da seguinte maneira: os participantes detalhavam cada serviço do seu caldeirão, e para cada serviço, definiam o nome da integração (em post-its amarelos), o objetivo (em post-its azuis) e os serviços/dados/sistemas relacionados (em post-its vermelhos). Eles se orientavam pelas perguntas: 
-
-<div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
-    <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;">"ANAC: O que o DECEA tem que poderia melhorar seus serviços/dados/sistemas?" </p>
-</div>
-
-<div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
-    <img src="../assets/flag.png" style="margin-right: 8px; align-self: flex-start;">
-    <p style="font-size: 18px; color: #666; margin: 0; padding-left: 20px;"> "DECEA: O que a ANAC tem que poderia melhorar seus serviços/dados/sistemas?"</p>
-</div>
-
-
-Logo em seguida, ocorreu a **Priorização das Integrações**, cujo objetivo era definir uma lista priorizada de integrações tanto por parte da ANAC quanto por parte do DECEA. A dinâmica envolvia o estabelecimento de relações entre as integrações, a consolidação das listas de integrações por parte da ANAC, do DECEA e das integrações comuns, e, por fim, uma votação para priorização.
-
-No período da tarde foi desenvolvido foi o **World Café**, cujo objetivo era pensar em atividades, marcos (milestones) e pontos de verificação (checkpoints) que deveriam ser desenvolvidos ou atingidos para implementar cada integração. A dinâmica do “World Café” funcionava assim: cada rodada de discussão durava 20 minutos. Cada mesa tinha um anfitrião fixo e tratava de uma integração específica. O anfitrião conduzia as discussões sobre as atividades relacionadas à sua integração e registrava os principais achados, enquanto todos os participantes anotavam suas respostas. Ao sinal (20 minutos depois), os participantes mudavam para a próxima mesa, onde o anfitrião resumia a conversa que havia tido com a equipe anterior e reiniciava a atividade com os recém-chegados.
-
-Para encerrar a oficina, foi realizado o desenvolvimento do **roadmap**, que foi o foco principal desta iniciativa.
-
-
+[timeline center alternate(./docs/timeline/anac-decea-ciclo.json)]
 
 ## O resultado
 
