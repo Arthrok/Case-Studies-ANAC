@@ -80,14 +80,3 @@ planejamento para o alinhamento entre todas as oficinas em andamento. Em seguida
 desenvolvido o protótipo, realizado a análise heurística e os testes com usuários. Por fim,
 será reiniciado o ciclo de redesenho e melhoria contínua da qualidade do serviço.
 
-
-
-
-
-
-
-
-
-# Destaques do Sprint
-
-[timeline center alternate(./docs/timeline/hub-financeiro-1-ciclo.json)]
