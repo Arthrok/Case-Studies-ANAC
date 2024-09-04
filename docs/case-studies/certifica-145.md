@@ -4,7 +4,7 @@
     <!-- Coluna da pergunta -->
     <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
         <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
-        <p style="font-size: 18px; color: #666; margin: 0; align-self: flex-start; padding-top: 15px;"></p>
+        <p style="font-size: 18px; color: #666; margin: 0; align-self: flex-start; padding-top: 15px;">A oficina gerou um compromisso claro para a continuidade do trabalho, com a necessidade de mais discussões internas e refinamentos antes da implementação final do sistema.</p>
     </div>
 
     <!-- Coluna de estatísticas e métodos -->
