@@ -76,3 +76,8 @@ p {
   text-indent: 0;
   color: #3c4043;
 }
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  color: #202124;
+  font-weight: 400;
+}
