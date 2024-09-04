@@ -1,11 +1,11 @@
 # Oficina para o Diário de bordo digital
 
 
-
 <div style="display: flex; justify-content: space-between;">
     <!-- Coluna da pergunta -->
-    <div style="flex: 1; padding: 16px; 8px; margin-right: 16px;">
-        <p style="font-size: 14px; font-weight: bold; margin: 0;">Vale a pena continuar com o Diário de Bordo Digital?</p>
+    <div style="display: flex; align-items: center; padding: 16px; margin-right: 16px; flex: 1;">
+        <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
+        <p style="font-size: 18px; color: #666; margin: 0; align-self: flex-start; padding-top: 15px;">Vale a pena continuar com o Diário de Bordo Digital?</p>
     </div>
     
     <!-- Coluna de estatísticas e métodos -->
