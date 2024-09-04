@@ -15,13 +15,13 @@
                 <h3 style="font-size: 16px; color: #666;">ESTATÍSTICAS</h3>
                 <p style="font-size: 14px; margin: 8px 0 0;">Tamanho da equipe</p>
                 <p style="font-size: 14px; font-weight: bold; margin: 0;">14 participantes</p>
-                <p style="font-size: 14px; margin: 8px 0 0;">No de dias</p>
+                <p style="font-size: 14px; margin: 8px 0 0;">Nº de dias</p>
                 <p style="font-size: 14px; font-weight: bold; margin: 0;">3 dias</p>
             </div>
             <div style="flex: 1;">
                 <h3 style="font-size: 16px; color: #666;">MÉTODOS USADOS</h3>
                 <ul style="list-style-type: none; padding: 0; margin: 0;">
-                    <li><a href="#" style="color: #1a73e8; text-decoration: none;">Quebra-Gelo</a></li>
+                    <li><a href="/Case-Studies-ANAC/quebra-gelo/" style="color: #1a73e8; text-decoration: none;">Quebra-Gelo</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">World Café</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Método Disney adaptado</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Palestra-relâmpago</a></li>

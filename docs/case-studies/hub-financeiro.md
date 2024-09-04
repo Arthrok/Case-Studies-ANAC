@@ -20,7 +20,7 @@
             <div style="flex: 1;">
                 <h3 style="font-size: 16px; color: #666;">MÉTODOS USADOS</h3>
                     <ul style="list-style-type: none; padding: 0; margin: 0;">
-                        <li><a href="#" style="color: #1a73e8; text-decoration: none;">Quebra-Gelo</a></li>
+                        <li><a href="/Case-Studies-ANAC/quebra-gelo/" style="color: #1a73e8; text-decoration: none;">Quebra-Gelo</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">É, Não É, Faz, Não Faz​</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Personas</a></li>
                         <li><a href="#" style="color: #1a73e8; text-decoration: none;">Brainstorming</a></li>
