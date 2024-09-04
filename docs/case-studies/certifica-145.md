@@ -73,6 +73,4 @@ A oficina foi bem-sucedida em alinhar as expectativas entre regulados e regulado
 
 Os participantes foram engajados de maneira significativa, garantindo que suas vozes fossem ouvidas e suas necessidades fossem consideradas no desenvolvimento do sistema. A interação direta com o protótipo permitiu que os usuários identificassem pontos de melhoria e sugerissem ajustes, tornando o sistema mais intuitivo e funcional.
 
-Esses resultados refletem o progresso significativo alcançado durante a oficina, estabelecendo uma base sólida para o desenvolvimento de um sistema de certificação mais eficiente e centrado no usuário.
-
-A oficina gerou um compromisso claro para a continuidade do trabalho, com a necessidade de mais discussões internas e refinamentos antes da implementação final do sistema. Foi reconhecida a importância de manter um diálogo contínuo com os usuários para ajustar e melhorar o sistema ao longo do tempo, garantindo que ele atenda às necessidades do mercado.
+Esses resultados refletem o progresso significativo alcançado durante a oficina, estabelecendo uma base sólida para o desenvolvimento de um sistema de certificação mais eficiente e centrado no usuário. Foi reconhecida a importância de manter um diálogo contínuo com os usuários para ajustar e melhorar o sistema ao longo do tempo, garantindo que ele atenda às necessidades do mercado.
