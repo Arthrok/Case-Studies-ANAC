@@ -23,7 +23,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
-        src="./docs/assets/hub-financeiro.png" 
+        src="./assets/hub-financeiro.png" 
         style="max-width: 244px; height: auto; border-radius: 4px;" 
         alt="HUB Financeiro"
     >
@@ -39,7 +39,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
-        src="assets/decea.png" 
+        src="./assets/decea.png" 
         style="max-width: 244px; height: auto; border-radius: 4px;" 
         alt="ANAC e DECEA"
     >
