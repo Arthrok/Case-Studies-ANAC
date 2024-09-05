@@ -22,6 +22,9 @@ markdown_extensions:
 
 
 nav:
+
+  - Página inicial: pagina-inicial.md
+
   - Oficinas:
       - Início: index.md
       - Casos: 
@@ -35,6 +38,9 @@ nav:
   
   - Técnicas e Ferramentas: 
       - Quebra-gelo: quebra-gelo.md
+  
+
+
 
 
 theme:

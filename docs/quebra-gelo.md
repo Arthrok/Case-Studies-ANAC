@@ -11,20 +11,21 @@ Por exemplo: incluem jogos, discussões em grupo sobre tópicos leves como pergu
 ## Modelo de Quebra-Gelo
 
 <h6 align="center">Imagem 1 - Exemplos de Perguntas para o quebra-gelo.</h6>
-<div align="center">
+
 
 ![imgMiroPerg](assets/perguntasQuebraGelo.png)
 
-</div>
-<h6 align="center">Fonte: Miro. 2024.</a>
+
+<h6 align="center">Fonte: Miro. 2024.</a></h6>
 
   
-<h6 align="center">Imagem 2 - modelos para o quebra-gelo.</h6>
-<div align="center">
+<h6 align="center">Imagem 2 - modelos para o quebra-gelo.
+</h6>
+
 
 ![imgMiroModel](assets/MiroModelosQuebraGelo.png)
 
-</div>
+
 <h6 align="center">Fonte: Miro. 2024.</a></h6>
 
 
