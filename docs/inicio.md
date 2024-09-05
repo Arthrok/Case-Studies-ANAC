@@ -15,7 +15,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <h4 style="margin: 0; color: #5f6368; font-weight: 400;">DESIGN DE SERVIÇO</h4>
         <p style="margin: 0; padding-top: 10px;">A oficina de Design de Serviço para o Diário de Bordo Digital da ANAC buscou identificar barreiras no uso do sistema e propor soluções. O resultado foi a criação de um roadmap e um MVP para melhorar a adesão ao serviço.</p>
         <br>
-        <a href="/Case-Studies-ANAC/case-studies/diario-bordo/" style="margin: 0; color: #1a73e8; font-weight: 500;">Veja mais</a>
+        <a href="./case-studies/diario-bordo.md" style="margin: 0; color: #1a73e8; font-weight: 500;">Veja mais</a>
     </div>
 </div>
 --------------------------------------------------------
