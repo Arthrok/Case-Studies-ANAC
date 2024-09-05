@@ -8,7 +8,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/diario-bordo.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="Diário de Bordo Digital"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -24,7 +24,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/hub-financeiro.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="HUB Financeiro"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -40,7 +40,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/decea.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="ANAC e DECEA"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -56,7 +56,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/safety.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="Safety intelligence"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -72,7 +72,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/base-aeronaves.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="Base de aeronaves"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -88,7 +88,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
     <img 
         src="./assets/matriz-certifica.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
         alt="Matriz de certificação"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
@@ -101,11 +101,11 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 -------------------------------------------------------------
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/certifica-145">Certifica 145</a>
 
-<div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
+<div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px; align-items: flex-start;">
     <img 
         src="./assets/certifica145.png" 
-        style="max-width: 244px; height: auto; border-radius: 4px;" 
-        alt="Certifica 145"
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;" 
+        alt="Diário de Bordo Digital"
     >
     <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
         <h4 style="margin: 0; color: #5f6368; font-weight: 400;">DESIGN DE SERVIÇO</h4>
