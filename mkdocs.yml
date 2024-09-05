@@ -23,10 +23,10 @@ markdown_extensions:
 
 nav:
 
-  - Página inicial: pagina-inicial.md
+  - Página inicial: index.md
 
   - Oficinas:
-      - Início: index.md
+      - Início: inicio.md
       - Casos: 
         - Diário de Bordo: case-studies/diario-bordo.md
         - HUB Financeiro: case-studies/hub-financeiro.md
