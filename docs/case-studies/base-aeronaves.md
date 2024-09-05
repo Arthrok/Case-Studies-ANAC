@@ -56,7 +56,8 @@ Realizada entre os dias 20 e 22 de fevereiro de 2024, a oficina seguiu uma metod
 
 ## Destaques da oficina
 
-[timeline center alternate(./docs/timeline/base-aeronaves-Line.json)]
+
+[timeline center alternate(./docs/timeline/base-aeronaves-line.json)]
 
 
 ## O resultado
