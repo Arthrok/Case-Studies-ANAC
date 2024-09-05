@@ -23,7 +23,7 @@ markdown_extensions:
 
 nav:
   - Oficinas:
-      - Início: case-studies/index.md
+      - Início: index.md
       - Casos: 
         - Diário de Bordo: case-studies/diario-bordo.md
         - HUB Financeiro: case-studies/hub-financeiro.md
@@ -33,7 +33,8 @@ nav:
         - Matriz de Certificação: case-studies/matriz-certifica.md
         - Certifica 145: case-studies/certifica-145.md
   
-  - Técnicas e Ferramentas: quebra-gelo.md
+  - Técnicas e Ferramentas:
+      - Quebra-gelo: quebra-gelo.md
 
 
 theme:
