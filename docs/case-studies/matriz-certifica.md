@@ -8,9 +8,9 @@
         <img src="../assets/ic-quote.png" style="margin-right: 8px; align-self: flex-start;">
         <p style="font-size: 18px; color: #666; margin: 0; align-self: flex-start; padding-top: 15px;">A Oficina de Design do Serviço "Startup Certifica" se configura como uma oportunidade essencial para otimizar os processos de certificação na ANAC, focando na eficiência e no atendimento às necessidades dos usuários.</p>
     </div>
-    
+
     <!-- Coluna de estatísticas e métodos -->
-    <div style="flex: 2; border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+    <div style="flex: 0 0 55%; border: 1px solid #e0e0e0; border-radius: 8px; padding: 16px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <div style="display: flex; justify-content: space-between;">
             <div style="flex: 1;">
                 <h3 style="font-size: 16px; color: #666;">ESTATÍSTICAS</h3>
@@ -30,7 +30,7 @@
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Histórias de usuário</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Jornada do usuário</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Storyboard</a></li>
-                    <li><a href="#" style="color: #1a73e8; text-decoration: none;">Construçãao de Wireframes</a></li>
+                    <li><a href="#" style="color: #1a73e8; text-decoration: none;">Construção de Wireframes</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Roadmap</a></li>
                     <li><a href="#" style="color: #1a73e8; text-decoration: none;">Testes com Usuários</a></li>
                 </ul>
@@ -38,6 +38,7 @@
         </div>
     </div>
 </div>
+
 
 
 
