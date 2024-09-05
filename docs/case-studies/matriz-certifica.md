@@ -58,7 +58,7 @@ Realizada em quatro dias intensivos, de 13 a 23 de maio de 2024, a oficina segui
 
 ## Destaques da oficina
 
-[timeline center alternate(./docs/timeline/matriz-certifica-Line.json)]
+[timeline center alternate(./docs/timeline/matriz-certifica-line.json)]
 
 
 ## O resultado
