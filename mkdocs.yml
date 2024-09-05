@@ -26,7 +26,7 @@ nav:
   - Página inicial: index.md
 
   - Oficinas:
-      - Início: inicio.md
+      - Início: case-studies/index.md
       - Casos: 
         - Diário de Bordo: case-studies/diario-bordo.md
         - HUB Financeiro: case-studies/hub-financeiro.md
