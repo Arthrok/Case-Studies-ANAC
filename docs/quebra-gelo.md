@@ -32,6 +32,6 @@ Por exemplo: incluem jogos, discussões em grupo sobre tópicos leves como pergu
 
 No site do Miro, você pode encontrar uma variedade de ideias de perguntas e também de modelos interativos para aplicar a técnica do quebra-gelo, nas imagens 1 e 2 demonstra como é as páginas de modelos e perguntas. Para acessar esses materiais, clique nos links logo abaixo:
 
-[Link_para_Perguntas](https://miro.com/pt/modelos/dinamica-quebra-gelo-simples/)
+**[Link_para_Perguntas](https://miro.com/pt/modelos/dinamica-quebra-gelo-simples/)**
 
-[Link_para_Modelos](https://miro.com/pt/modelos/brincadeiras-quebra-gelo/)
+**[Link_para_Modelos](https://miro.com/pt/modelos/brincadeiras-quebra-gelo/)**
