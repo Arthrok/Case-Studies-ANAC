@@ -2,7 +2,7 @@
 
 O quebra-gelo é uma técnica usada para facilitar a interação e a comunicação entre os participantes de um grupo, especialmente em contextos de trabalho colaborativo ou eventos de grupo como oficinas. O objetivo é criar um ambiente mais descontraído e confortável, ajudando os participantes a se conhecerem melhor e a se sentirem mais à vontade para colaborar e compartilhar ideias.
 
-## Como Funciona a Metodologia Quebra-Gelo?
+## Como Funciona a técnica Quebra-Gelo?
 
 Geralmente o quebra-gelo começa com atividades que incentivam os participantes a compartilhar algo pessoal ou interessante sobre si mesmos, como suas preferências ou experiências. São realizadas atividades simples e divertidas que ajudam a romper barreiras iniciais e a estimular a interação. 
 
