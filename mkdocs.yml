@@ -24,6 +24,9 @@ markdown_extensions:
 nav:
 
   - Página inicial: index.md
+  - Caliandra: 
+      - Incio: caliandra.md
+
 
   - Oficinas:
       - Início: case-studies/index.md
