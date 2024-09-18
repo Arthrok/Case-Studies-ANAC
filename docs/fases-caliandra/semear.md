@@ -16,12 +16,16 @@ Propor uma ideia ou conceito para um novo serviço ou evolução de um serviço 
 
 ### Input
 
+A fase Semear trabalha com diversos insumos (inputs) que formam a base para o desenvolvimento do serviço. Esses insumos fornecem informações essenciais para alinhar a proposta inicial com a capacidade e diretrizes da organização, incluindo:
+
 - **Análise de capacidade**
 - **Políticas públicas**
 - **Arcabouço legal** (Diretrizes que normatizam)
 - **Escuta do cidadão**
 
 ### Participantes
+
+Tipicamente são realizadas, nesta fase, reuniões de alinhamento com os interessados e, quando necessário, pesquisa de usuário para subsidiar a fase de germinação.
 
 - **Gestores e Donos do serviço**, 
 - **Usuários finais do serviço**, 
