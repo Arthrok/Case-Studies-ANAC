@@ -19,3 +19,15 @@ A Calliandra é uma abordagem desenvolvida pelo ITRAC para a CoCriação Ágil d
 A Calliandra está profundamente integrada ao formato das oficinas do ITRAC. As oficinas permitem que as fases da metodologia sejam implementadas de maneira colaborativa e prática, desde a fase de "Germinar", onde se concebem as ideias, até "Brotar", onde se desenvolvem protótipos. Essa sinergia entre a metodologia e as oficinas garante que as soluções criadas sejam não apenas inovadoras e viáveis, mas também alinhadas às necessidades dos usuários e ao contexto de desenvolvimento sustentável.
 
 **[PÁGINA EM CONSTRUÇÃO...]**
+
+| Brasil          |            |              |
+| --------------- | ---------- | ------------ |
+| **Estado**      | **Time**   |              |
+| São Paulo       | São Paulo  |              |
+|                 | Santos     |              |
+|                 | Corinthians|              |
+|                 | Palmeiras  |              |
+| Rio de Janeiro  | Flamengo   |              |
+|                 | Botafogo   |              |
+|                 | Vasco      |              |
+|                 | Fluminense |              |
