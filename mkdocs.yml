@@ -28,6 +28,11 @@ nav:
       - Incio: caliandra.md
       - Semear: fases-caliandra/semear.md
       - Germinar: fases-caliandra/germinar.md
+      - Brotar: fases-caliandra/brotar.md
+      - Florescer: fases-caliandra/florescer.md
+      - Frutificar: fases-caliandra/frutificar.md
+      - Amadurecer: fases-caliandra/amadurecer.md
+      
 
   - Oficinas:
       - Início: case-studies/index.md
