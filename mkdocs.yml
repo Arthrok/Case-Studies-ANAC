@@ -25,7 +25,7 @@ nav:
 
   - Página inicial: index.md
   - Caliandra: 
-      - Início: caliandra.md
+      - Início: fases-caliandra/caliandra.md
       - Semear: fases-caliandra/semear.md
       - Germinar: fases-caliandra/germinar.md
       - Brotar: fases-caliandra/brotar.md

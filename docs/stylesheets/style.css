@@ -82,38 +82,55 @@ p {
   font-weight: 400;
 }
 
+
+body {
+  text-align: justify;
+}
+
+.circle-layout-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh; /* Centraliza a div verticalmente */
+}
+
 .circle-layout-container {
   position: relative;
-  width: 500px; /* Ajuste o tamanho do círculo conforme necessário */
+  width: 500px;
   height: 500px;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+/* Garantindo que os links não afetem o layout */
+.circle-layout-container a {
+  position: absolute;
+  display: block;
+  text-decoration: none; /* Remove underline dos links */
 }
 
 .circle-layout-part {
-  position: absolute;
   width: 31%; /* Tamanho inicial das partes */
-  transition: all 0.3s ease-in-out; /* Transição suave para o efeito de hover */
+  transition: all 0.3s ease-in-out;
 }
 
 .circle-layout-center {
-  width: 32%; /* Ajuste o tamanho da imagem central */
+  width: 32%;
   z-index: 1;
 }
 
-/* Efeito de hover para as partes */
 .circle-layout-part:hover {
   cursor: pointer;
-  width: 38%; /* Expande 10% */
-  z-index: 2; /* Garante que a parte destacada fique acima das outras */
+  width: 38%;
+  z-index: 2;
 }
 
-/* Posicionando as partes ao redor do círculo */
-.circle-layout-part1 { transform: rotate(0deg) translateY(-125px); }  /* Topo */
+.circle-layout-part1 { transform: rotate(0deg) translateY(-125px); }
 .circle-layout-part2 { transform: rotate(60deg) translateY(-125px); }
 .circle-layout-part3 { transform: rotate(120deg) translateY(-125px); }
-.circle-layout-part4 { transform: rotate(180deg) translateY(-125px) rotate(180deg); }  /* Parte inferior */
+.circle-layout-part4 { transform: rotate(180deg) translateY(-125px) rotate(180deg); }
 .circle-layout-part5 { transform: rotate(240deg) translateY(-125px); }
 .circle-layout-part6 { transform: rotate(300deg) translateY(-125px); }
