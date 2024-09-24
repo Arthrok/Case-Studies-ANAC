@@ -99,3 +99,17 @@ A abordagem Calliandra é guiada por cinco princípios fundamentais:
     </div>
 </div>
 -------------------------------------------------------------
+
+
+<div class="circle-layout-container">
+  <!-- Imagem central -->
+  <img src="center-circle.png" class="circle-layout-center" id="center">
+  
+  <!-- Partes ao redor do círculo, no sentido horário -->
+  <img src="./assets/part1.png" class="circle-layout-part circle-layout-part1">
+  <img src="assets/part2.png" class="circle-layout-part circle-layout-part2">
+  <img src="part3.png" class="circle-layout-part circle-layout-part3">
+  <img src="part4.png" class="circle-layout-part circle-layout-part4">
+  <img src="part5.png" class="circle-layout-part circle-layout-part5">
+  <img src="part6.png" class="circle-layout-part circle-layout-part6">
+</div>

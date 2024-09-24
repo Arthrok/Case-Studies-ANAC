@@ -81,3 +81,39 @@ p {
   color: #202124;
   font-weight: 400;
 }
+
+.circle-layout-container {
+  position: relative;
+  width: 500px; /* Ajuste o tamanho do círculo conforme necessário */
+  height: 500px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle-layout-part {
+  position: absolute;
+  width: 31%; /* Tamanho inicial das partes */
+  transition: all 0.3s ease-in-out; /* Transição suave para o efeito de hover */
+}
+
+.circle-layout-center {
+  width: 32%; /* Ajuste o tamanho da imagem central */
+  z-index: 1;
+}
+
+/* Efeito de hover para as partes */
+.circle-layout-part:hover {
+  cursor: pointer;
+  width: 38%; /* Expande 10% */
+  z-index: 2; /* Garante que a parte destacada fique acima das outras */
+}
+
+/* Posicionando as partes ao redor do círculo */
+.circle-layout-part1 { transform: rotate(0deg) translateY(-125px); }  /* Topo */
+.circle-layout-part2 { transform: rotate(60deg) translateY(-125px); }
+.circle-layout-part3 { transform: rotate(120deg) translateY(-125px); }
+.circle-layout-part4 { transform: rotate(180deg) translateY(-125px) rotate(180deg); }  /* Parte inferior */
+.circle-layout-part5 { transform: rotate(240deg) translateY(-125px); }
+.circle-layout-part6 { transform: rotate(300deg) translateY(-125px); }
