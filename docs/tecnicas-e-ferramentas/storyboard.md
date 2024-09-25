@@ -2,7 +2,12 @@
 
 O storyboard é uma ferramenta essencial no desenvolvimento de produtos e soluções, especialmente em oficinas de inovação. Ele ajuda a transformar ideias em uma narrativa visual, facilitando o planejamento e a comunicação entre equipes. Na prática, o storyboard organiza as principais etapas de um projeto, possibilitando que as equipes visualizem o fluxo completo da experiência do usuário. Isso permite identificar falhas e melhorar a coesão da solução antes mesmo de começar a implementação do protótipo.
 
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Estrutura de um storyboard</p></font>
+
 ![Storyboard-1](assets/storyboard-1.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+</p></font>
 
 ---
 
@@ -17,7 +22,12 @@ A técnica é recomendada para:
 - Visualizar a interação do usuário com o produto, serviço ou experiência.
 - Evitar retrabalho e tomadas de decisões tardias durante a criação.
 
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Planejamento de interação de usuário com o produto</p></font>
+
 ![storyboard-2](assets/storyboard-2.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+</p></font>
 
 ---
 
@@ -31,7 +41,12 @@ Para colocar a técnica do storyboard em prática, é necessário que a equipe s
 4. **Trabalhe com o que já foi decidido:** Não é o momento de criar novas ideias ou soluções. O foco deve ser em organizar o que já foi definido para que a equipe possa se concentrar na montagem do protótipo.
 5. **Limite o storyboard a 15 minutos de teste:** Isso ajuda a focar nas partes mais importantes do protótipo e garante que o teste será eficiente.
 
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Sequência de etapas para desenvolvimento de protótipo</p></font>
+
 ![storyboard-3](assets/storyboard-3.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+</p></font>
 
 ---
 
@@ -44,7 +59,12 @@ O uso do storyboard agrega inúmeros benefícios à dinâmica de uma oficina:
 - **Economia de tempo e energia:** A técnica ajuda a evitar debates longos sobre detalhes pequenos, concentrando a energia da equipe na execução. Isso é fundamental em sprints rápidos, onde a fadiga de decisão pode ser um problema.
 - **Facilidade de comunicação:** Storyboards são uma excelente ferramenta de comunicação, facilitando o compartilhamento de ideias e soluções com stakeholders ou outros membros da equipe de maneira visual e objetiva.
 
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Exemplo de storyboard consolidado</p></font>
+
 ![storyboard-4](assets/storyboard-4.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+</p></font>
 
 ---
 
