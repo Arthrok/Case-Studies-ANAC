@@ -46,6 +46,7 @@ nav:
         - Certifica 145: case-studies/certifica-145.md
   
   - Técnicas e Ferramentas: 
+      - Storyboard: tecnicas-e-ferramentas/storyboard.md
       - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
       - Personas: tecnicas-e-ferramentas/personas.md
       - Wireframes: tecnicas-e-ferramentas/wireframe.md
