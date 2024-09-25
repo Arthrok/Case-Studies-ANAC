@@ -6,7 +6,7 @@ O storyboard é uma ferramenta essencial no desenvolvimento de produtos e soluç
 
 ![Storyboard-1](assets/storyboard-1.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
 </p></font>
 
 ---
@@ -26,7 +26,7 @@ A técnica é recomendada para:
 
 ![storyboard-2](assets/storyboard-2.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
 </p></font>
 
 ---
@@ -45,7 +45,7 @@ Para colocar a técnica do storyboard em prática, é necessário que a equipe s
 
 ![storyboard-3](assets/storyboard-3.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
 </p></font>
 
 ---
@@ -63,7 +63,7 @@ O uso do storyboard agrega inúmeros benefícios à dinâmica de uma oficina:
 
 ![storyboard-4](assets/storyboard-4.png)
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Levy, Jaime. Estratégia de UX: Técnicas de Estratégia de Produto para Criar Soluções Digitais Inovadoras. O'Reilly Media, 2ª Edição, 2020.
 </p></font>
 
 ---
