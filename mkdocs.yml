@@ -46,11 +46,13 @@ nav:
         - Certifica 145: case-studies/certifica-145.md
   
   - Técnicas e Ferramentas: 
-      - Quebra-gelo: quebra-gelo.md
+      - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
       - Personas: tecnicas-e-ferramentas/personas.md
       - Wireframes: tecnicas-e-ferramentas/wireframe.md
       - Blueprint de serviço: tecnicas-e-ferramentas/blueprint.md
       - Brainstorm: tecnicas-e-ferramentas/brainstorm.md
+      - É – Não é – Faz – Não faz: tecnicas-e-ferramentas/eNaoFazNaoFaz.md
+      - Canvas MVP: tecnicas-e-ferramentas/canvasMVP.md
   
 
 
