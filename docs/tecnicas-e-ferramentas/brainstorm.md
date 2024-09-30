@@ -1,77 +1,71 @@
 # Brainstorming
 
-O **brainstorming** é uma técnica de geração de ideias que promove a liberdade de pensamento e a colaboração. Ele é usado em momentos em que uma equipe precisa quebrar barreiras, pensar "fora da caixa" e explorar o maior número possível de soluções para um problema ou desafio.
-
-O processo é dinâmico e tem como base a criação de um ambiente sem julgamentos, onde a quantidade de ideias importa mais do que sua qualidade inicial. Somente após a geração das ideias é que a avaliação entra em cena.
-
-## Fluxo do Brainstorming
-
-### 1. Preparação para o Brainstorming
-
-O brainstorming começa antes mesmo da sessão. É necessário um **preparo estratégico** para garantir que a dinâmica seja produtiva:
-
-- **Definir o Problema ou Tópico Central**: Garanta que todos compreendam claramente qual é o desafio ou problema a ser resolvido.
-- **Formar a Equipe**: Escolha participantes de diferentes áreas e com diferentes perspectivas para enriquecer a discussão.
-- **Definir o Espaço**: Prepare um ambiente aberto e descontraído, seja físico ou virtual (usando ferramentas como Miro, Mural, ou Google Jamboard), com quadros brancos, post-its ou ferramentas colaborativas.
-
-### 2. Fase de Exploração (Geração de Ideias)
-
-Esta é a fase principal do brainstorming. A regra aqui é **liberdade total** de ideias e a máxima quantidade possível:
-
-- **Incentive a Criatividade**: Nenhuma ideia deve ser considerada estranha ou impraticável neste momento. Soluções improváveis podem gerar insights valiosos.
-- **Sem Críticas**: Não há julgamento ou avaliação das ideias nesta fase. Isso incentiva os participantes a serem ousados em suas sugestões.
-- **Volume de Ideias**: Quanto mais ideias, melhor. A ideia é esgotar todas as possibilidades.
-  
-
-### 3. Fase de Convergência (Organização das Ideias)
-
-Uma vez geradas as ideias, chega o momento de organizar o que foi criado:
-
-- **Agrupamento de Ideias**: Separe ideias que têm temas ou características semelhantes. Use cores, categorias ou post-its para criar clusters de ideias.
-- **Exploração de Temas**: Identifique quais temas ou conceitos surgem com maior frequência. Isso pode revelar onde estão as melhores oportunidades.
-
-### 4. Fase de Avaliação e Refinamento
-
-Agora que as ideias estão organizadas, o próximo passo é avaliar o que foi gerado:
-
-- **Critérios de Avaliação**: Defina critérios de acordo com os objetivos do projeto, como viabilidade, impacto, inovação, e alinhamento estratégico.
-- **Discussão**: Promova discussões sobre as ideias, permitindo que os participantes refinem e expandam as melhores sugestões.
-- **Votação**: Se necessário, faça uma votação para priorizar as ideias mais promissoras.
-
-### 5. Ação: Levando as Ideias à Implementação
-
-Após a fase de refinamento, as melhores ideias são selecionadas para desenvolvimento. Este é o momento em que o brainstorming deixa de ser apenas uma prática criativa e começa a tomar forma real:
-
-- **Definição de Próximos Passos**: Crie um plano de ação com responsáveis, prazos e metas para transformar as ideias selecionadas em protótipos, projetos ou ações.
-- **Monitoramento**: Acompanhe o desenvolvimento das ideias e esteja aberto a novos ciclos de brainstorming conforme necessário.
-
-### Técnicas de Geração de Ideias:
-
-#### Crazy 8’s
-- Desenhar 8 ideias em 8 minutos, uma técnica rápida que força a mente a explorar soluções sem muito tempo para pensar.
-  
-#### SCAMPER
-- Ferramenta que utiliza sete estratégias para inovar: **Substituir**, **Combinar**, **Adaptar**, **Modificar**, **Propor outros usos**, **Eliminar** e **Reverter**.
-
-## Exemplo Visual do Processo de Brainstorming
-
-Aqui está um exemplo visual de uma sessão de brainstorming utilizando a técnica **Crazy 8's**:
-
-![ Exemplo de Brainstorm Utilizando Crazy 8's](assets/brainstorm.png)
-
-<h6 align="center">Fonte: </h6>
-
-## Vantagens do Brainstorming
-
-- **Estimula a Criatividade em Equipe**: Ao colaborar, as pessoas constroem sobre as ideias dos outros, criando um ciclo de criatividade.
-- **Rapidez na Geração de Ideias**: A dinâmica rápida permite que muitas soluções sejam exploradas em um curto período.
-- **Quebra de Barreiras Mentais**: O brainstorming permite explorar ideias além das soluções mais óbvias, abrindo espaço para inovação.
-
-## Desvantagens do Brainstorming
-
-- **Pode ser Desorganizado**: Se não houver uma moderação adequada, as sessões podem se tornar caóticas.
-- **Pressão para Contribuir**: Alguns participantes podem se sentir intimidados em compartilhar suas ideias, especialmente em grupos grandes.
-- **Dificuldade de Avaliar Muitas Ideias**: Se muitas ideias forem geradas, a fase de avaliação pode se tornar trabalhosa.
+O **brainstorming** é uma técnica de geração de ideias que estimula a liberdade de pensamento e a colaboração. Ele é amplamente utilizado em situações em que uma equipe precisa encontrar soluções criativas para problemas complexos ou explorar novas oportunidades. O princípio fundamental do brainstorming é suspender o julgamento das ideias durante o processo inicial, permitindo que as sugestões mais inusitadas e criativas floresçam antes de serem avaliadas.
 
 
+---
 
+## Quando usá-la?
+
+O brainstorming deve ser utilizado quando:
+
+- Há necessidade de encontrar múltiplas soluções para um problema complexo.
+- O time está bloqueado criativamente e precisa destravar novas ideias.
+- É necessário explorar novas perspectivas ou desafiar as abordagens tradicionais para um projeto.
+- A equipe precisa de uma colaboração que permita diversas vozes e ideias serem ouvidas, sem julgamentos iniciais.
+
+---
+
+## A técnica na prática
+
+O processo de brainstorming envolve várias etapas fundamentais:
+
+1.Preparação para o Brainstorming:
+
+   - **Definir o Problema ou Tópico Central**: Certifique-se de que todos os participantes entendam claramente qual é o problema ou objetivo a ser abordado.
+   - **Formar a Equipe**: Reúna participantes de diversas áreas para ampliar a diversidade de perspectivas.
+   - **Escolher o Ambiente**: Crie um espaço colaborativo, que pode ser tanto físico quanto virtual, onde ferramentas como post-its ou aplicativos como Miro ou Jamboard possam ser usados.
+
+2.Fase de Exploração (Geração de Ideias):
+
+   - **Liberdade Criativa**: Permita que todas as ideias sejam expressas, por mais improváveis que pareçam.
+   - **Sem Críticas**: Durante essa fase, evite julgamentos para garantir que os participantes se sintam à vontade para sugerir qualquer ideia.
+   - **Volume de Ideias**: Foque em gerar a maior quantidade possível de sugestões.
+
+3.Fase de Convergência (Organização das Ideias):
+
+   - Agrupe as ideias em categorias ou temas semelhantes, ajudando a identificar padrões ou oportunidades recorrentes.
+
+4.Fase de Avaliação e Refinamento:
+
+   - Após organizar as ideias, comece a aplicar critérios de avaliação, como viabilidade e impacto, para priorizar as mais promissoras.
+
+5.Ação: Implementação das Ideias:
+
+   - Defina um plano de ação para transformar as melhores ideias em projetos concretos, delegando responsabilidades e prazos claros.
+
+Técnicas como o **Brainstorming Reverso**, o **Gap Filling**, e o **Role Play Brainstorming**  e  **crazy 8's** podem ser usadas para enriquecer esse processo, adaptando-se ao tipo de problema e ao grupo envolvido.
+<font size="3"><p style="text-align: center"><b>Figura 1</b> Exemplo de aplicação de brainstorm utilizando a técnica crazy 8's</p></font>
+
+![Exemplo de Brainstorm Utilizando Crazy 8's ](assets/brainstorm.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> Relatório Ciclo 2 - Oficinas e prototipação - ANAC - HUB FINANCEIRO - agosto de 2024, página 73.
+</p></font>
+---
+
+## O que a técnica agrega na oficina
+
+O brainstorming é uma técnica poderosa que agrega os seguintes benefícios às oficinas:
+
+- **Estimula a Criatividade Coletiva**: A colaboração entre os participantes ajuda a expandir ideias iniciais e a criar soluções mais inovadoras.
+- **Rapidez na Geração de Ideias**: A dinâmica rápida do brainstorming permite que uma vasta quantidade de soluções seja explorada em um curto espaço de tempo.
+- **Quebra de Barreiras Mentais**: A técnica incentiva os participantes a irem além das soluções óbvias, resultando em ideias mais inovadoras e diversificadas.
+
+---
+
+## Bibliografia
+
+1. *Brainstorming: Técnicas Para Destravar Suas Ideias*. Aela. Disponível em: [Aela.io](https://www.aela.io/pt-br/blog/conteudos/brainstorming-tecnicas-para-destravar-suas-ideias).
+2. *Brainstorming Techniques for Idea Generation*. Interaction Design Foundation. Disponível em: [Interaction Design](https://www.interaction-design.org/literature/topics/brainstorming?srsltid=AfmBOoqlnACQpBhd-Qn0x2vsY5Gl1IjjtzPTqCwbA1Spe01ooJnVVf7I).
+3. *Brainstorming para SEO: O que é e como aplicá-lo?* Ebac. Disponível em: [Ebac Online](https://ebaconline.com.br/blog/brainstorming-seo).
+4. Relatório Ciclo 2 - Oficinas e prototipação - ANAC - HUB FINANCEIRO - agosto de 2024.
