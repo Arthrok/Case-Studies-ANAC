@@ -24,7 +24,7 @@ markdown_extensions:
 nav:
 
   - Página inicial: index.md
-  - Caliandra: 
+  - Calliandra: 
       - Início: fases-caliandra/caliandra.md
       - Semear: fases-caliandra/semear.md
       - Germinar: fases-caliandra/germinar.md
@@ -46,14 +46,16 @@ nav:
         - Certifica 145: case-studies/certifica-145.md
   
   - Técnicas e Ferramentas: 
-      - Storyboard: tecnicas-e-ferramentas/storyboard.md
-      - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
-      - Personas: tecnicas-e-ferramentas/personas.md
-      - Wireframes: tecnicas-e-ferramentas/wireframe.md
-      - Blueprint de serviço: tecnicas-e-ferramentas/blueprint.md
-      - Brainstorm: tecnicas-e-ferramentas/brainstorm.md
-      - É – Não é – Faz – Não faz: tecnicas-e-ferramentas/eNaoFazNaoFaz.md
-      - Canvas MVP: tecnicas-e-ferramentas/canvasMVP.md
+      - Início: tecnicas-e-ferramentas/index.md
+      - Técnicas e Ferramentas: 
+        - Storyboard: tecnicas-e-ferramentas/storyboard.md
+        - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
+        - Personas: tecnicas-e-ferramentas/personas.md
+        - Wireframes: tecnicas-e-ferramentas/wireframe.md
+        - Blueprint de serviço: tecnicas-e-ferramentas/blueprint.md
+        - Brainstorm: tecnicas-e-ferramentas/brainstorm.md
+        - É – Não é – Faz – Não faz: tecnicas-e-ferramentas/eNaoFazNaoFaz.md
+        - Canvas MVP: tecnicas-e-ferramentas/canvasMVP.md
   
 
 
