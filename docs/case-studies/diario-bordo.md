@@ -42,7 +42,7 @@
 
 
 
-## O Desafio
+## O Desafioatividades
 
 Foi desenvolvido a oficina de Design do Serviço específica para o Diário de Bordo Digital da
 Agência Nacional de Aviação Civil (ANAC). A ideia era definir estratégias para fazer com
@@ -56,11 +56,25 @@ roadmap de evolução do serviço.
 A oficina foi conduzida por dois facilitadores, o professor Marcelo junto com a contribuição
 do Oto Lima. Os participantes foram a equipa da ANAC. O Oto tem a experiência com a
 parte interna da ANAC e o professor Marcelo tem conhecimentos sobre oficinas,
-metodologias, e design de serviço.
+metodologias, e design de serviço. Na Imagem 1, demosntra o Oto com o professor Marcelo iniciando a oficina.
+
+<font size="3"><p style="text-align: center"><b>Imagem 1 - </b> Início da oficina.</p></font>
+
+![Storyboard-1](assets/diarioBordo-img.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Relatório Final Ciclo de oficinas - Diario de Bordo Digital. 2024.
+</p></font>
 
 ## A oficina
 
-A oficina foi conduzida presencialmente no Centro de Treinamento da Agência Nacional de Aviação Civil, com duração de três dias, de 21 a 23 de maio. Diferente das oficinas tradicionais desenvolvidas pelo ITRAC, este evento não resultou em um protótipo, mas sim na elaboração de um MVP dividido em três releases. Cada release detalha as funcionalidades que serão entregues, proporcionando uma visão clara e estruturada do desenvolvimento incremental do projeto.
+A oficina foi conduzida presencialmente no Centro de Treinamento da Agência Nacional de Aviação Civil, com duração de três dias, de 21 a 23 de maio. Diferente das oficinas tradicionais desenvolvidas pelo ITRAC, este evento não resultou em um protótipo, mas sim na elaboração de um MVP dividido em três releases. Cada release detalha as funcionalidades que serão entregues, proporcionando uma visão clara e estruturada do desenvolvimento incremental do projeto. Na Imagem 2, ilustra um dos momentos de realização de uma das técnicas aplicadas na oficina, no caso a da Jornada do Usuário. 
+
+<font size="3"><p style="text-align: center"><b>Imagem 2 - </b> Momento na oficina.</p></font>
+
+![Storyboard-1](assets/diarioBordo-img2.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Relatório Final Ciclo de oficinas - Diario de Bordo Digital. 2024.
+</p></font>
 
 ## Destaques da oficina
 

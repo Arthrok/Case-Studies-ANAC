@@ -47,13 +47,26 @@ No contexto da Certifica 145, foi discutida a aplicação de diferentes metodolo
 
 ## A equipe
 
-A oficina foi conduzida pelo facilitador, o professor Marcelo, junto com o colaborador Oto Lima e os integrantes do ITRAC que ajudaram auxiliando na oficina e na criação do relatório final no qual registra tudo o que aconteceu além dos resultados. Também teve no total 10 participantes, cujo estes fazem parte da ANAC.
+A oficina foi conduzida pelo facilitador, o professor Marcelo, junto com o colaborador Oto Lima e os integrantes do ITRAC que ajudaram auxiliando na oficina e na criação do relatório final no qual registra tudo o que aconteceu além dos resultados. Também teve no total 10 participantes, cujo estes fazem parte da ANAC. Na Imagem 1 demonstra os participantes reunidos de forma online pela plataforma teams. 
 
-[falta informação se teve reunião antes da oficina para defini-la]
+<font size="3"><p style="text-align: center"><b>Imagem 1 - </b> Participantes da Oficina online.</p></font>
+
+![Storyboard-1](assets/img-certifica.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Relatório Oficinas Certifica 145. 2024.
+</p></font>
 
 ## A oficina
 
-Esta oficina com a Certifica foi a segunda realizada, mas desta vez de forma online, utilizando o Teams para comunicação e o Miro para interação e execução das metodologias. Com a experiência prévia dos participantes em oficinas, o evento se desenrolou ao longo de três dias, na data 26/08 até 28/08 de 2024, focando na prototipagem e na realização de testes. 
+Esta oficina com a Certifica foi a segunda realizada, mas desta vez de forma online, utilizando o Teams para comunicação e o Miro para interação e execução das metodologias. Com a experiência prévia dos participantes em oficinas, o evento se desenrolou ao longo de três dias, na data 26/08 até 28/08 de 2024, focando na prototipagem e na realização de testes. Na Imagem 2 representa o desenvolvimento do esboço que posteriormente foi usado como base para criar o protótipo.
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 2 - </b> prototipagem da oficina.</p></font>
+
+![Storyboard-1](assets/img2-certifica.png)
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b>Relatório Oficinas Certifica 145. 2024.
+</p></font>
 
 Os testes revelaram pontos positivos, como a clara organização das telas e a facilidade de uso para usuários experientes, além de destacar áreas para melhoria. Entre os pontos negativos, foram mencionados a complexidade e os termos técnicos que dificultavam a compreensão para usuários menos experientes, e a simplicidade excessiva da interface que compromete a compreensão das funcionalidades. As sugestões para melhorias incluíram a adição de indicadores visuais e tutoriais passo a passo, bem como a necessidade de testar o protótipo com usuários sem experiência técnica para assegurar a acessibilidade para todos.
 
