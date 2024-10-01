@@ -164,7 +164,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">O brainstorm é uma técnica de geração de ideias que incentiva a criatividade em grupo, permitindo a criação de soluções inovadoras. Ele não é um processo estruturado ou limitado a ideias filtradas, mas sim um ambiente livre de críticas. O brainstorm faz com que participantes contribuam com ideias espontâneas e diversas. No entanto, não faz a análise ou avaliação dessas ideias, que ocorre posteriormente.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-       <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+      <span style="background-color: #1cac8e; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/brainstorm.md">Veja mais</a>
