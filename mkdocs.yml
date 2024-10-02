@@ -84,7 +84,7 @@ theme:
 
   language: pt-BR
   favicon: assets/simbolo_itrac.png
-  logo: assets/logo_itrac.svg
+  logo: assets/logo-itrac.png
 
 extra:
   version:
