@@ -14,7 +14,11 @@ O World Café é útil em situações em que é preciso ouvir várias opiniões 
 No World Café, o espaço é pensado para ser confortável e informal, como se fosse um café de verdade. As pessoas se sentam em mesas pequenas, de 4 a 6 participantes, para conversar sobre uma pergunta importante que orienta a discussão em cada mesa. Uma pessoa fica fixa em cada mesa para resumir o que foi discutido antes e ajudar a continuar o papo. A cada nova rodada, as pessoas trocam de mesa, levando consigo as ideias das conversas anteriores e juntando com o que for discutido na próxima mesa. No fim, todas as ideias são reunidas e apresentadas para o grupo todo, criando um momento de reflexão e troca de opiniões.
 Na imagem 1, demonstra de forma ilustrativa a ideia da técnica:
 
+<h6 align="center">Imagem 1 - demonstração do word café.</h6>
+
 ![imgWordCafe1](assets/img1-WordCafe.png)
+
+<h6 align="center">Fonte: PAULA, et al. Relatório Final Ciclo de oficinas - Diario de Bordo Digital (2024)</a></h6>
 
 ---
 
