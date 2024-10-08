@@ -8,6 +8,13 @@ Os testes com usuários são uma técnica importante para melhorar produtos e se
 
 Use testes com usuários sempre que você estiver desenvolvendo um produto, especialmente na fase de protótipo. Essa técnica é útil quando você deseja obter feedback real sobre a usabilidade e a funcionalidade do que está sendo criado. Se você quer saber se os usuários conseguem navegar facilmente pelo sistema e entender as funcionalidades, é hora de aplicar essa técnica.
 
+
+<h6 align="center">Imagem 1 - Exemplo de teste.</h6>
+
+![usuHistImg2](assets/testUsuario.jpg)
+
+<h6 align="center">Fonte: Freepik, 2024.</a></h6>
+
 ---
 
 # A técnica na prática
@@ -39,3 +46,4 @@ Os testes com usuários agregam muito valor ao processo de design e desenvolvime
 1. NIELSEN, Jakob. Usability Engineering. San Francisco: Morgan Kaufmann, 1994.
 2. UX DESIGN. Como organizar uma sessão de testes com usuários. Disponível em: https://brasil.uxdesign.cc/ux-design-como-organizar-uma-sess%C3%A3o-de-testes-com-usu%C3%A1rios-e99059c9cee4. Acesso em: 7 out. 2024.
 3. TESTES COM USUÁRIOS – Startup Certifica. Acesso em: 7 out. 2024.
+4. FREEPIK. Feedback resultados informação satisfação. Disponível em: https://br.freepik.com/fotos-vetores-gratis/teste-usuario/6. Acesso em: 7 out. 2024.
