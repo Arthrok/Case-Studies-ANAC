@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Dia 1: Manhã",
+        "content": "Iniciou-se com a contextualização, resumindo a oficina. Em seguida, foi realizado o método quebra-gelo, onde cada participante utilizou um post-it para escrever seu nome e um interesse pessoal relacionado a alguma região do Brasil, como comida típica, música, dança, lazer, atração turística, etc. Posteriormente, os post-its foram posicionados sobre as regiões referidas. A seguir, os participantes listaram as experiências dos Regulados em relação às suas dores e expectativas. Depois, foi feita a Enunciação do Problema a ser trabalhado e, em seguida, aplicou-se o método personas para a definição dos perfis de usuários."
+    },
+    {
+        "title": "Dia 1: Tarde",
+        "content": "O trabalho iniciou com as Jornadas dos usuários, que foram divididas em 5 fases. Para o encerramento, foi utilizada a metodologia “É, Não é, Faz, Não Faz”, desenvolvida inicialmente em dois grupos de participantes e depois consolidada em um único grupo para definição."
+    },
+    {
+        "title": "Dia 2: Manhã",
+        "content": "No segundo dia começou com Benchmarking, onde os participantes pesquisaram e adicionaram exemplos de outros serviços ou iniciativas que consideravam casos de sucesso ou que não se aplicavam ao caso em questão. Em seguida, foi aplicada a metodologia Crazy 8, em que cada participante gerou ideias individualmente, apresentou-as e, depois, votou nas que mais gostou. Após um intervalo, iniciou-se o Storyboarding, onde os participantes usaram o Miro para esboçar ideias sobre telas e funcionalidades."
+    },
+    {
+        "title": "Dia 2: Tarde",
+        "content": "Continuou com o desenvolvimento do Storyboarding e protótipo, focando nas funcionalidades e fluxos. Os participantes montavam no Miro o Storyboarding e a equipe ITRAC passava para o figma em forma de prototipada, apesar do Storyboarding já está em forma de protótipo de baixa fidelidade. "
+    },
+    {
+        "title": "Dia 3: Manhã",
+        "content": "Novamente continuaram a prototipagem com o Storyboarding, pois ainda não tinham sido finalizados, mas já estavam quase completos. Por fim, o figma foi apresentado para os participantes, para verificarem se estava correto sobre funcionalidades telas e fluxo."
+    },
+    {
+        "title": "Dia 3: Tarde",
+        "content": "Ocorreu os testes com os 3 usuários, que foram distribuídos em 3 salas simultaneamente no Teams. Obtendo feedbacks valiosos."
+    }
+]

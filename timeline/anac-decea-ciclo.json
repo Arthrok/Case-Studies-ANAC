@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Dia 1: Manhã",
+        "content":"Na parte da manhã, aconteceram as boas-vindas e a introdução da oficina para situar os participantes sobre o objetivo da mesma. Para descontrair e apresentar os participantes, foi realizada uma sessão de quebra-gelo, onde cada um deveria dizer seu nome, área de atuação e compartilhar algo que gostasse ou uma experiência que gostaria de dividir, conectando-se ao participante anterior. A tarefa seguinte foi a Apresentação das áreas, cujo objetivo era mostrar o que cada área envolvida na oficina utilizava de dados e serviços, e identificar interseções, utilidades ou necessidades de dados/serviços de outras áreas. Para o levantamento de insights, a dinâmica adotada foi que, durante cada apresentação, os participantes anotassem em post-its como os serviços de seu conhecimento poderiam se beneficiar ou colaborar (com dados ou serviços) com o que estava sendo apresentado. A próxima tarefa foi a Colcha de Retalhos, que consistia basicamente em refletir sobre os benefícios de realizar integrações. Para essa atividade, cada participante teve que escrever em post-its respostas para a pergunta: Quais benefícios poderiam ser alcançados com uma maior integração entre a ANAC e o DECEA?"
+    },
+    {
+        "title": "Dia 1: Tarde",
+        "content":"À tarde, a primeira atividade realizada foi a Feira de Serviços, que consistiu em detalhar os serviços, sistemas e dados de cada área para os participantes, além de proporcionar a oportunidade de visualizar (experimentar) aqueles de interesse. Todos tiveram de 10 a 15 minutos para visitar cada área. A última atividade do primeiro dia foi o Caldeirão de Serviços, em que cada participante listou os serviços, sistemas e dados de interesse por parte da ANAC e do DECEA. A dinâmica consistiu em que cada participante escrevesse nos post-its quais serviços, sistemas e dados vistos durante as apresentações e a Feira de Serviços poderiam ser de interesse para sua agência ou departamento."
+
+    },
+    {
+        "title": "Dia 2: Manhã",
+        "content":"No segundo e último dia de oficina, pela manhã, antes do início das atividades, foi feita uma recapitulação do que havia ocorrido no dia anterior. Para iniciar a segunda parte da oficina, a atividade elaborada foi o Toró de Integrações, cujo objetivo era gerar uma lista de integrações. A dinâmica funcionava da seguinte maneira: os participantes detalhavam cada serviço do seu caldeirão, e para cada serviço, definiam o nome da integração (em post-its amarelos), o objetivo (em post-its azuis) e os serviços/dados/sistemas relacionados (em post-its vermelhos). Eles se orientavam pelas perguntas: ANAC: O que o DECEA tem que poderia melhorar seus serviços/dados/sistemas? e DECEA: O que a ANAC tem que poderia melhorar seus serviços/dados/sistemas?. Logo em seguida, ocorreu a Priorização das Integrações, cujo objetivo era definir uma lista priorizada de integrações tanto por parte da ANAC quanto por parte do DECEA. A dinâmica envolvia o estabelecimento de relações entre as integrações, a consolidação das listas de integrações por parte da ANAC, do DECEA e das integrações comuns, e, por fim, uma votação para priorização."
+
+    },
+    {
+        "title": "Dia 2: Tarde",
+        "content":"No período da tarde foi desenvolvido o World Café, cujo objetivo era pensar em atividades, marcos (milestones) e pontos de verificação (checkpoints) que deveriam ser desenvolvidos ou atingidos para implementar cada integração. A dinâmica do World Café funcionava assim: cada rodada de discussão durava 20 minutos. Cada mesa tinha um anfitrião fixo e tratava de uma integração específica. O anfitrião conduzia as discussões sobre as atividades relacionadas à sua integração e registrava os principais achados, enquanto todos os participantes anotavam suas respostas. Ao sinal (20 minutos depois), os participantes mudaram para a próxima mesa, onde o anfitrião resumia a conversa que havia tido com a equipe anterior e reiniciava a atividade com os recém-chegados. Para encerrar a oficina, foi realizado o desenvolvimento do roadmap, que foi o foco principal desta iniciativa."
+
+    }
+]
