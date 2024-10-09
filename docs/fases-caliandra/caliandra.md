@@ -21,9 +21,9 @@ A abordagem Calliandra é guiada por cinco princípios fundamentais:
 
 - **Alinhamento com os Objetivos de Desenvolvimento Sustentável (ODS):** Cada projeto desenvolvido pela Calliandra é projetado para contribuir com metas específicas dos ODS, como a redução das desigualdades e a promoção de instituições eficazes e transparentes.
 
-<h6 align="center">Imagem 1 - Abordagem Calliandra.</h6>
+<h6 align="center">Imagem 1 - Processo metodológico do Calliandra.</h6>
 
-![imgCalliandra](assets/Calliandra.png)
+![imgCalliandra](assets/calliandraModelo.png)
 
 
 ## Fases da Abordagem Calliandra

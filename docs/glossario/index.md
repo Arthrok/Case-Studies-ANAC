@@ -1,10 +1,8 @@
-## Introdução
 
-Este documento tem como objetivo apresentar um levantamento dos principais métodos, técnicas e ferramentas que integram a abordagem Calliandra no contexto de design de serviços e engenharia de software. A proposta é organizar e descrever conceitos que auxiliem na criação de soluções inovadoras e centradas no ser humano, promovendo a cocriação de valor e a colaboração ativa de stakeholders em processos de design e inovação.
+Na tabela abaixo, encontra-se o glossário que reúne os principais conceitos relacionados à abordagem Calliandra, utilizada no contexto de design de serviços e engenharia de software. A proposta é oferecer uma referência clara e acessível para apoiar a aplicação prática da Calliandra, promovendo a cocriação de valor e a colaboração ativa de stakeholders. Ao revisar o nome original da abordagem, que inicialmente se chamava "Cocriação Ágil para Serviços Digitais", busca-se melhor representar a amplitude dos processos envolvidos. O glossário serve como base para compreensão dos métodos, técnicas e ferramentas catalogados, fornecendo definições essenciais para o entendimento das fases e práticas do ciclo Calliandra.
 
-A seguir, será apresentado um glossário que reúne definições fundamentais para a compreensão dos conceitos utilizados ao longo deste levantamento.
+## 
 
-## Glossário
 
 | Conceito | Descrição | Referências |
 |----------|------------|-------------|
