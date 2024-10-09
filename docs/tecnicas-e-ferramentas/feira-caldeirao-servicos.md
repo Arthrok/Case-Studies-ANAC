@@ -1,6 +1,6 @@
 # Feira e Caldeirão de Serviços
 
-A **Feira e Caldeirão de Serviços** são dinâmicas colaborativas utilizadas em oficinas de inovação e design, principalmente para explorar e priorizar diferentes serviços ou sistemas que possam ser de interesse para as equipes participantes. Essas atividades permitem que os participantes visualizem, discutam e selecionem os serviços mais relevantes de forma prática e interativa.
+A **Feira e Caldeirão de Serviços** são dinâmicas colaborativas utilizadas em oficinas com foco em explorar e priorizar diferentes serviços ou sistemas que possam ser de interesse para as equipes participantes. Essas atividades permitem que os participantes visualizem, discutam e selecionem os serviços mais relevantes de forma prática e interativa.
 
 ---
 
