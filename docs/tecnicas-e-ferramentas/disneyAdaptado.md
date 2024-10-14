@@ -18,7 +18,7 @@ A Metodologia Disney é dividida em três fases, cada uma com um foco específic
 
 <h6 align="center">Imagem 1 - Estrutura de um método Disney.</h6>
 
-![cnpImg](assets/canvaMVP.png)
+![cnpImg](assets/disney.jpg)
 
 <h6 align="center">Fonte: Miro. 2024. </a></h6>
 
