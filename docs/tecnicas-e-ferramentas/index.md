@@ -464,3 +464,24 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/colchaDeRetalhos">Veja mais</a>
     </div>
 </div> 
+
+--------------------------------------------------------
+## <a style="color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/matrizIPA">Modelo de Matriz de Impacto e Esforço</a>
+
+<div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
+    <img 
+        src="./assets/matriz.png" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
+        alt="img matrizIPA"
+    >
+    <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
+        <h4 style="margin: 0; color: #5f6368; font-weight: 400;">FERRAMENTA</h4>
+        <p style="margin: 0; padding-top: 10px;">A Matriz de Impacto e Esforço é uma ferramenta visual que ajuda equipes a priorizar tarefas, classificando-as pelo impacto nos objetivos e pelo esforço necessário. Ela visa otimizar a gestão de projetos e minimizar perdas de tempo e recursos.</p>
+        <br>
+        <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
+        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <br>
+        <br>
+        <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/matrizIPA">Veja mais</a>
+    </div>
+</div> 
