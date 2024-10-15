@@ -48,29 +48,34 @@ nav:
   - Técnicas e Ferramentas: 
       - Início: tecnicas-e-ferramentas/index.md
       - Técnicas e Ferramentas: 
-        - Storyboard: tecnicas-e-ferramentas/storyboard.md
-        - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
-        - Personas: tecnicas-e-ferramentas/personas.md
-        - Wireframes: tecnicas-e-ferramentas/wireframe.md
+        - 5W2H: tecnicas-e-ferramentas/5w2h.md
+        - Benchmarking: tecnicas-e-ferramentas/benchmarking.md
         - Blueprint de serviço: tecnicas-e-ferramentas/blueprint.md
         - Brainstorm: tecnicas-e-ferramentas/brainstorm.md
-        - É – Não é – Faz – Não faz: tecnicas-e-ferramentas/eNaoFazNaoFaz.md
-        - Hipótese do Negócio para o MVP: tecnicas-e-ferramentas/hipoteseDoNegocioParaMVP.md
-        - Canvas MVP: tecnicas-e-ferramentas/canvasMVP.md
-        - Jornada do Usuário: tecnicas-e-ferramentas/JornadaDoUsuario.md
-        - Visão do Produto: tecnicas-e-ferramentas/visaoDoProduto.md
-        - Benchmarking: tecnicas-e-ferramentas/benchmarking.md
-        - Roadmap: tecnicas-e-ferramentas/Roadmap.md
-        - Como Nós Podemos: tecnicas-e-ferramentas/comoNosPodemos.md
-        - Historia do Usuário: tecnicas-e-ferramentas/historiaUsuario.md
-        - World Café: tecnicas-e-ferramentas/worldCafe.md
-        - Testes Com Usuários: tecnicas-e-ferramentas/testesComUsuarios.md
-        - Proposta do MVP: tecnicas-e-ferramentas/PropostaMVP.md
-        - Feira e Caldeirão de Serviços: tecnicas-e-ferramentas/feira-caldeirao-servicos.md
-        - 5W2H: tecnicas-e-ferramentas/5w2h.md
-        - Método Disney: tecnicas-e-ferramentas/disneyAdaptado.md
-        - Colcha de Retalhos: tecnicas-e-ferramentas/colchaDeRetalhos.md
         - Canvas Co-desing: tecnicas-e-ferramentas/canvasCodesign.md
+        - Canvas MVP: tecnicas-e-ferramentas/canvasMVP.md
+        - Colcha de Retalhos: tecnicas-e-ferramentas/colchaDeRetalhos.md
+        - Como Nós Podemos: tecnicas-e-ferramentas/comoNosPodemos.md
+        - É – Não é – Faz – Não faz: tecnicas-e-ferramentas/eNaoFazNaoFaz.md
+        - Feira e Caldeirão de Serviços: tecnicas-e-ferramentas/feira-caldeirao-servicos.md
+        - Historia do Usuário: tecnicas-e-ferramentas/historiaUsuario.md
+        - Hipótese do Negócio para o MVP: tecnicas-e-ferramentas/hipoteseDoNegocioParaMVP.md
+        - Jornada do Usuário: tecnicas-e-ferramentas/JornadaDoUsuario.md
+        - Método Disney: tecnicas-e-ferramentas/disneyAdaptado.md
+        - Modelo de Matriz de Impacto e Esforço: matrizIPA.md
+        - Personas: tecnicas-e-ferramentas/personas.md
+        - Proposta do MVP: tecnicas-e-ferramentas/PropostaMVP.md
+        - Quebra-gelo: tecnicas-e-ferramentas/quebra-gelo.md
+        - Roadmap: tecnicas-e-ferramentas/Roadmap.md
+        - Storyboard: tecnicas-e-ferramentas/storyboard.md
+        - Testes Com Usuários: tecnicas-e-ferramentas/testesComUsuarios.md
+        - Visão do Produto: tecnicas-e-ferramentas/visaoDoProduto.md
+        - Wireframes: tecnicas-e-ferramentas/wireframe.md
+        - World Café: tecnicas-e-ferramentas/worldCafe.md
+        
+        
+        
+    
         
   - Glossário: glossario/index.md
   
