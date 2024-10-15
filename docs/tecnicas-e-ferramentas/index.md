@@ -16,7 +16,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">O método 5W2H é uma ferramenta de planejamento que organiza ações e projetos, baseado em sete perguntas essenciais: What, Why, Who, Where, When, How e How Much, ajudando as equipes a planejar de forma clara e eficaz.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/5w2h">Veja mais</a>
@@ -37,7 +37,8 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">O Benchmarking é uma técnica que compara práticas e produtos de uma empresa com os de líderes de mercado, visando identificar melhorias e aumentar a competitividade.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #B92BD9; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Florescer</span>
+        <span style="background-color: #4BC27E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Amadurecer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/benchmarking">Veja mais</a>
@@ -143,7 +144,8 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A técnica "Como Nós Podemos" transforma problemas em oportunidades criativas, incentivando a geração de novas ideias em atividades de Design Thinking e inovação.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #FFEA00; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Semear</span>
+        <span style="background-color: #4BC27E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Amadurecer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/comoNosPodemos">Veja mais</a>
@@ -185,7 +187,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A Feira e Caldeirão de Serviços são dinâmicas colaborativas que permitem às equipes explorar, discutir e priorizar serviços de interesse de forma prática e interativa.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #4BC27E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Amadurecer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/feira-caldeirao-servicos">Veja mais</a>
@@ -206,7 +208,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A história de usuário descreve funcionalidades de um produto pela perspectiva do usuário, ajudando as equipes a entender as necessidades dos clientes e alinhando o desenvolvimento com seus objetivos.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/historiaUsuario">Veja mais</a>
@@ -227,7 +229,8 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A Hipótese do Negócio para o MVP valida suposições sobre o sucesso de um produto, definindo expectativas e métricas para validar essas hipóteses facilitando o aprendizado baseado em dados reais.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
+        <span style="background-color: #B92BD9; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Florescer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/hipoteseDoNegocioParaMVP">Veja mais</a>
@@ -248,7 +251,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A jornada do usuário mapeia a experiência do usuário com um produto, desde a descoberta até a fidelização, ajudando a identificar pontos de dor e oportunidades de melhoria.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/JornadaDoUsuario">Veja mais</a>
@@ -332,7 +335,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A proposta do MVP no "Report Safety" focou em definir as funcionalidades essenciais do produto, ajudando a equipe a entender o que era realmente importante antes de criar a hipótese de negócio e desenvolver o canvas MVP.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/PropostaMVP">Veja mais</a>
@@ -374,7 +377,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">O roadmap de produto comunica a visão e o progresso do produto, alinhando a equipe e stakeholders em torno das metas, funcionalidades e prioridades, permitindo ajustes no planejamento.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #4BC27E; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Amadurecer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/Roadmap">Veja mais</a>
@@ -416,7 +419,8 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">Os testes com usuários são essenciais para aprimorar produtos, permitindo entender como interagem com protótipos e identificar problemas e melhorias, garantindo que atendam às necessidades reais dos usuários.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB9800; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Geminar</span>
+        <span style="background-color: #B92BD9; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Florescer</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/testesComUsuarios">Veja mais</a>
@@ -437,7 +441,8 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">A Visão do Produto é uma ferramenta estratégica que define e comunica a essência do produto, alinhando a equipe em torno de um objetivo comum e focando nas necessidades do mercado e dos usuários.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #DB9800; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Geminar</span>
+        <span style="background-color: #DB005B; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Brotar</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/visaoDoProduto">Veja mais</a>
@@ -479,7 +484,7 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
         <p style="margin: 0; padding-top: 10px;">O World Café é uma técnica que facilita conversas em grupo de forma descontraída, onde participantes discutem questões importantes em pequenos grupos, promovendo colaboração e solução conjunta de problemas.</p>
         <br>
         <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
-        <span style="background-color: #F55747; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Não possui</span>
+        <span style="background-color: #FFEA00; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Semear</span>
         <br>
         <br>
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/worldCafe">Veja mais</a>
