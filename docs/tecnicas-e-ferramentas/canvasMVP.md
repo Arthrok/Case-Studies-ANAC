@@ -24,7 +24,7 @@ O Canvas MVP é composto por sete blocos que guiam o planejamento e a execução
 
 ![cnpImg](assets/canvaMVP.png)
 
-<h6 align="center">c </a></h6>
+<h6 align="center">Fonte: CAROLI, Paulo. 2024 </a></h6>
 
 ## O que a técnica agrega na oficina
 

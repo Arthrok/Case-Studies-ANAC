@@ -3,6 +3,12 @@
 
 O ITRAC (Information Technology Research and Application Center) é um centro acadêmico inovador vinculado à Faculdade UnB Gama (FGA) e ao curso de Engenharia de Software da Universidade de Brasília (UnB). Seu objetivo é promover a pesquisa e o desenvolvimento colaborativo em Tecnologia da Informação (TI), destacando-se por projetos de inovação e desenvolvimento tecnológico em parceria com a academia, governo e indústria.
 
+<h6 align="center"></h6>
+
+![cnpImg](assets/image.png)
+
+<h6 align="center"></a></h6>
+
 ## Oficinas Interativas
 
 As oficinas do ITRAC são ambientes dinâmicos e práticos, criados para capacitar os participantes a desenvolver e testar soluções inovadoras para desafios reais. Diferente de abordagens puramente teóricas, essas oficinas incentivam a experimentação e a aplicação imediata de conceitos técnicos e metodológicos em situações práticas. Ao trabalhar em equipes multidisciplinares e receber orientação especializada, os participantes têm a oportunidade de criar protótipos e validar suas ideias com feedback contínuo.
