@@ -89,6 +89,27 @@ As técnicas e ferramentas são fundamentais para cultivar um ambiente de aprend
 </div>
 
 --------------------------------------------------------
+## <a style="color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/canvasCodesign">Canvas Codesign</a>
+
+<div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
+    <img 
+        src="./assets/====== NAO POSSUI ======" 
+        style="max-width: 244px; height: auto; border-radius: 4px; object-fit: cover; align-self: flex-start;"  
+        alt="img Canvas Codesign"
+    >
+    <div style="flex-direction: column; box-sizing: border-box; align-self: flex-start; align-items: flex-start; padding-left: 50px; margin: 0;">
+        <h4 style="margin: 0; color: #5f6368; font-weight: 400;">FERRAMENTA</h4>
+        <p style="margin: 0; padding-top: 10px;">Canvas Codesign é uma ferramenta de co-criação que promove colaboração inclusiva entre stakeholders para resolver desafios sociais complexos. Facilita diálogos transparentes e ações coletivas, visando impacto social positivo.</p>
+        <br>
+        <p style="margin: 0; color: #5f6368; font-weight: 400;">Pertence a seguinte fase do Calliandra:</p>
+        <span style="background-color: #FFEA00; color: black; padding: 4px 8px; border-radius: 12px; font-size: 12px; margin-right: 8px;">Semear</span>
+        <br>
+        <br>
+        <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/canvasCodesign">Veja mais</a>
+    </div>
+</div> 
+
+--------------------------------------------------------
 ## <a style="color: #1a73e8; font-weight: 500;" href="../tecnicas-e-ferramentas/canvasMVP.md">Canvas MVP</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
