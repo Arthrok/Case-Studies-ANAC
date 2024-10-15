@@ -66,6 +66,12 @@
     background-color: transparent;
 }
 
+.md-header__ellipsis {
+  display: none;
+}
+
+
+
 /* Borda inferior azul claro quando a opção estiver selecionada */
 .md-tabs__item--active .md-tabs__link::after {
     width: 100%;

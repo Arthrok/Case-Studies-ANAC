@@ -115,3 +115,6 @@ extra_css:
   - stylesheets/neoteroi-mkdocs.css
   - stylesheets/neoteroi-cards.css
   - stylesheets/neoteroi-timeline.css
+
+extra_javascript:
+  - javascript/bootstrap.js
