@@ -11,8 +11,8 @@
   --md-typeset-a-color: #103B61(255, 0, 0, 0.85) !important;
   --md-typeset-table-color: rgba(255, 255, 255, 0.211);
   --md-typeset-table-color--light: rgba(128, 128, 128, 0.157);
-  --md-heading-color: #E0E0E0; /* Cor para títulos (h1, h2, etc.) */
-  --md-paragraph-color: #E0E0E0; /* Cor para parágrafos */
+  --md-heading-color: #202124; /* Cor para títulos (h1, h2, etc.) */
+  --md-paragraph-color: #3c4043; /* Cor para parágrafos */
 }
   
   [data-md-color-scheme="claro"] img[src$="#only-dark"],

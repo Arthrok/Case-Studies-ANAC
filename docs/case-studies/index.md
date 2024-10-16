@@ -5,6 +5,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
 
 
 ---------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/anac-decea">ANAC e DECEA</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
@@ -20,8 +21,9 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/anac-decea">Veja mais</a>
     </div>
 </div>
+
 ----------------------------------------------------------------
-----------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/base-aeronaves">Base de Aeronaves</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
@@ -37,8 +39,9 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/base-aeronaves">Veja mais</a>
     </div>
 </div>
---------------------------------------------------------
+
 -------------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/certifica-145">Certifica 145</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px; align-items: flex-start;">
@@ -54,6 +57,7 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/certifica-145">Veja mais</a>
     </div>
 </div>
+
 -------------------------------------------------------------------------
 
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/diario-bordo">Diário de Bordo Digital</a>
@@ -71,7 +75,9 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/diario-bordo">Veja mais</a>
     </div>
 </div>
+
 --------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/hub-financeiro">HUB Financeiro</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
@@ -87,7 +93,9 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/hub-financeiro">Veja mais</a>
     </div>
 </div>
+
 ------------------------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/matriz-certifica">Matriz de Certificação</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
@@ -103,7 +111,9 @@ A metodologia de oficinas de Design de Serviço pode ser aplicada para enfrentar
         <a style="margin: 0; color: #1a73e8; font-weight: 500;" href="../case-studies/matriz-certifica">Veja mais</a>
     </div>
 </div>
+
 --------------------------------------------------------------------------
+
 ## <a style="color: #1a73e8; font-weight: 500;" href="../case-studies/safety-Intelligence">Safety intelligence</a>
 
 <div style="flex-direction: row; box-sizing: border-box; display: flex; border: 1px solid #f0f0f0; border-radius: 4px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 16px;">
