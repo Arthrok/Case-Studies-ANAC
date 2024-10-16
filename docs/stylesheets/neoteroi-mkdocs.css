@@ -597,6 +597,12 @@
   text-align: justify;
   color: #3c4043;
 }
+
+[data-md-color-scheme="slate"] .nt-timeline .nt-timeline-content {
+  color: #ffffff;
+}
+
+
 .nt-timeline.horizontal .nt-timeline-items {
   flex-direction: row;
   overflow-x: scroll;
