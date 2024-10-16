@@ -7,6 +7,7 @@
 }
 
 [data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #103B61 !important;
   --md-default-bg-color: #191a21; /* Fundo escuro */
   --md-typeset-a-color: #103B61(255, 0, 0, 0.85) !important;
   --md-typeset-table-color: rgba(255, 255, 255, 0.211);
@@ -37,14 +38,6 @@
     width: 200px;
     height: auto;
 
-  }
-
-  .md-header {
-    background-color: #103B61;
-  }
-
-  nav.md-tabs {
-    background-color: #103B61;
   }
   
 
