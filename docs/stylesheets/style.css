@@ -1,19 +1,18 @@
 [data-md-color-scheme="claro"] {
   --md-primary-fg-color: #103B61 !important;
   --md-accent-fg-color: blue;
-  --md-code-bg-color: rgb(255, 255, 255);
-  --md-code-fg-color: rgb(0, 0, 0);
   --md-typeset-a-color: #103B61(211, 0, 0);
+  --md-heading-color: #202124; /* Cor para títulos (h1, h2, etc.) */
+  --md-paragraph-color: #3c4043; /* Cor para parágrafos */
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #103B61;
-  --md-accent-fg-color: #103B61(255, 0, 0) !important;
-  --md-default-bg-color: #000000;
+  --md-default-bg-color: #191a21; /* Fundo escuro */
   --md-typeset-a-color: #103B61(255, 0, 0, 0.85) !important;
-  --md-code-bg-color: rgb(0, 0, 0);
   --md-typeset-table-color: rgba(255, 255, 255, 0.211);
   --md-typeset-table-color--light: rgba(128, 128, 128, 0.157);
+  --md-heading-color: #E0E0E0; /* Cor para títulos (h1, h2, etc.) */
+  --md-paragraph-color: #E0E0E0; /* Cor para parágrafos */
 }
   
   [data-md-color-scheme="claro"] img[src$="#only-dark"],
@@ -31,15 +30,23 @@
   }
   
   p {
-    text-indent: 1em;
+    text-indent: 0;
   }
 
   .md-header__button.md-logo img, .md-header__button.md-logo svg {
     width: 200px;
     height: auto;
-}
 
+  }
 
+  .md-header {
+    background-color: #103B61;
+  }
+
+  nav.md-tabs {
+    background-color: #103B61;
+  }
+  
 
 /* Centraliza a navbar */
 .md-grid {
@@ -78,20 +85,22 @@
     background-color: rgb(91, 245, 194);
 }
 
-p {
+/* p {
   text-indent: 0;
   color: #3c4043;
-}
+} */
 
-.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+/* .md-typeset h1, .md-typeset h2, .md-typeset h3 {
   color: #202124;
   font-weight: 400;
-}
+} */
 
 
 body {
   text-align: justify;
 }
+
+/* TUDO ABAIXO É DO CÍRCULO DAS FASES DO CALIANDRA */
 
 .circle-layout-wrapper {
   display: flex;
