@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Dia 1: Manhã",
+        "content": "A oficina começou com as boas-vindas e uma introdução aos objetivos do projeto. Os participantes foram então envolvidos em uma atividade de quebra-gelo, seguida por uma dinâmica chamada 'Apaixone-se pelo Problema, Não pela Solução'. Em seguida, foi realizado um Blueprint de Serviços para identificar e priorizar problemas, onde os principais obstáculos enfrentados pelos usuários foram compartilhados e discutidos."
+    },
+    {
+        "title": "Dia 1: Tarde",
+        "content": "Na parte da tarde, os participantes trabalharam na enunciação do problema, onde definiram e votaram no problema-chave a ser abordado. As atividades continuaram com rodadas de discussão no formato World Café, onde as causas e consequências dos problemas foram exploradas em detalhes. O dia terminou com a reformulação do problema, considerando os novos insights obtidos."
+    },
+    {
+        "title": "Dia 2: Manhã",
+        "content": "O segundo dia começou com uma retrospectiva do dia anterior, seguida pela definição dos perfis de usuário (personas). Os participantes criaram cenários de uso e detalharam as jornadas dos usuários, com foco em entender melhor as necessidades específicas de cada perfil e como o serviço pode ser otimizado para atendê-las."
+    },
+    {
+        "title": "Dia 2: Tarde",
+        "content": "Durante a tarde, os participantes começaram a trabalhar na construção do Blueprint e Storyboard do serviço, definindo as interações do usuário e as camadas relacionadas ao serviço. A sessão incluiu uma apresentação e discussão dos principais pontos identificados, com o objetivo de alinhar todos os participantes em torno da visão final do serviço."
+    },
+    {
+        "title": "Dia 3: Manhã",
+        "content": "O terceiro dia foi dedicado à construção do protótipo de baixa fidelidade, onde os participantes criaram wireframes e desenvolveram telas para o sistema. A equipe trabalhou em conjunto para refinar as funcionalidades e assegurar que o protótipo refletisse as necessidades identificadas nas jornadas dos usuários."
+    },
+    {
+        "title": "Dia 3: Tarde",
+        "content": "Na tarde do último dia, os protótipos foram testados com usuários reais. Os feedbacks recebidos foram discutidos e serviram para ajustes finais. O dia encerrou com a definição do roadmap para o desenvolvimento futuro e a implementação do sistema, além de uma avaliação das lições aprendidas ao longo da oficina."
+    },
+    {
+        "title": "Dia 4: Integração Final",
+        "content": "No quarto dia, os participantes revisaram e integraram os resultados das sessões anteriores, consolidando o protótipo final. O roadmap foi ajustado para refletir as prioridades emergentes, e os próximos passos foram definidos para garantir a continuidade do projeto."
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "title": "Dia 1: Manhã",
+        "content":"Para fomentar um ambiente colaborativo, uma atividade de quebra-gelo foi realizada. Os participantes foram convidados a responder à pergunta: Quem ou o que é você na aviação?. Essa dinâmica permitiu que os participantes se conhecessem melhor, compartilhando suas áreas de atuação e interesses pessoais. Em seguida, a atividade Começando pelo Fim incentivou os participantes a visualizar o impacto desejado da startup, ajudando a alinhar as expectativas de todos os envolvidos. As perguntas utilizadas nessa atividade foram: Qual a razão de existir da startup? e Onde a startup quer estar daqui a seis meses, um ano ou até cinco anos?. Após isso, a atividade Enunciando o Problema foi conduzida para identificar os principais desafios que a startup enfrentaria, estabelecendo uma base sólida para compreender os problemas a serem resolvidos."
+    },
+    {
+        "title": "Dia 1: Tarde",
+        "content":"No período da tarde, a oficina avançou para atividades centradas no entendimento do público-alvo. A Definição de Personas foi a primeira tarefa, onde os participantes criaram perfis detalhados de usuários potenciais, explorando suas necessidades, motivações e comportamentos. Posteriormente, os participantes mapearam as Jornadas de Usuários, identificando todas as etapas pelas quais os usuários passariam ao interagir com o produto, desde o primeiro contato até a resolução de suas necessidades. Essa análise ajudou a destacar pontos críticos e oportunidades de melhoria, fundamentais para o desenvolvimento do MVP."
+
+    },
+    {
+        "title": "Dia 2: Manhã",
+        "content":"O segundo dia da oficina começou com uma recapitulação dos aprendizados do dia anterior, assegurando que todos os participantes estivessem alinhados antes de continuar. Em seguida, a dinâmica É, Não É, Faz, Não Faz ajudou a refinar o escopo do produto, definindo de maneira clara o que o MVP deveria e não deveria incluir. A Visão do Produto foi a atividade seguinte, onde os participantes colaboraram para criar uma visão compartilhada do produto final. A manhã foi concluída com um brainstorming de funcionalidades, onde ideias foram geradas e discutidas para definir quais recursos seriam essenciais para o MVP. A pergunta base para essa atividade foi: Quais funcionalidades devemos construir para atingir os objetivos do produto?."
+
+    },
+    {
+        "title": "Dia 2: Tarde",
+        "content":"Na tarde do segundo dia, a oficina focou na Proposta do MVP, consolidando as ideias e funcionalidades discutidas anteriormente para definir o escopo mínimo necessário para validar o conceito da startup. Em seguida, a Hipótese do Negócio para o MVP foi formulada, com a pergunta-chave sendo: Que resultados serão alcançados com o MVP?. A atividade final foi a criação do Canvas MVP, um quadro visual que organizou todos os elementos essenciais do MVP, oferecendo uma visão clara e integrada do projeto."
+
+    }
+]

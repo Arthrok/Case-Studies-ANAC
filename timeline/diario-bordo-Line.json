@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Dia 1: Manhã",
+        "content": "No primeiro dia, pela manhã, a oficina começou com boas-vindas e uma introdução ao tema, apresentando os objetivos da oficina. Em seguida, houve um quebra-gelo, no qual os participantes tiveram que responder às seguintes perguntas: Se você fosse uma aeronave, qual seria e por quê? Quais características da aeronave escolhida se alinham com sua personalidade?; Esse momento ajudou a tornar o ambiente mais descontraído e colaborativo, promovendo uma melhor interação entre os participantes. Em seguida, Samir e Sylvio apresentaram o cenário, alinhando o entendimento do grupo. A metodologia World Café foi então introduzida e aplicada, com Eder e Samir atuando como anfitriões. Utilizando o World Café, foram identificados problemas relacionados ao Diário de Bordo Digital. A etapa seguinte envolveu uma discussão em grupo sobre o Diário de Bordo, usando post-its para responder às seguintes perguntas: Quais barreiras afetam o uso do Diário de Bordo Digital? Quais são os pontos positivos do Diário de Bordo Digital?; Depois, foram abordadas questões adicionais: Quais barreiras são mais críticas e devem ser enfrentadas? O que pode ser feito para aumentar a adoção do Diário de Bordo Digital? Por que os usuários não estão adotando o Diário de Bordo Digital? Quais são as principais razões para a existência do Diário de Bordo Digital?; Finalizou-se com uma votação para selecionar as melhores respostas."
+    },
+    {
+        "title": "Dia 1: Tarde",
+        "content": "Na parte da tarde, iniciou-se o mapeamento de problemas usando o Método Disney para explorar as razões da existência do Diário de Bordo Digital. O método incluiu três sessões: Sessão 1: Debate dos Advogados de Defesa – Nesta fase, foram propostas soluções para os problemas identificados, com um aprofundamento nas ideias. Sessão 2: Debate dos Promotores – Focou na priorização das ideias mais viáveis para implementação no contexto da ANAC."
+    },
+    {
+        "title": "Dia 2: Manhã e Tarde",
+        "content": "No segundo dia, a oficina começou com um resumo das descobertas do dia anterior e a definição dos objetivos para o dia. Os participantes foram divididos em dois grupos, cada um elaborando uma apresentação de 10 minutos baseada na retrospectiva e nas discussões anteriores, resultando em insights valiosos. Seguiu-se a atividade (Como Nós Podemos), um exercício de grupo para gerar ideias inovadoras para promover o Diário de Bordo. Em seguida, foram definidos os perfis de usuário (Personas), com votação para escolher quais personas seriam utilizadas. Posteriormente, realizou-se a técnica (Crazy 8), um brainstorming para o serviço, seguido da votação das ideias para consolidar as mais relevantes."
+    },
+    {
+        "title": "Dia 3: Manhã",
+        "content": "O terceiro dia começou com um alinhamento sobre o progresso até aquele momento. Em seguida, foi criada a Jornada do Usuário do Diário de Bordo Digital."
+    },
+    {
+        "title": "Dia 3: Tarde",
+        "content": "A tarde foi dedicada ao desenvolvimento do Roadmap, começando com a aplicação do 5W2H e a criação de um MVP que incluía funcionalidades para a primeira, segunda e terceira entregas."
+    }
+]

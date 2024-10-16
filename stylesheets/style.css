@@ -1,0 +1,144 @@
+[data-md-color-scheme="claro"] {
+  --md-primary-fg-color: #103B61 !important;
+  --md-accent-fg-color: blue;
+  --md-typeset-a-color: #103B61(211, 0, 0);
+  --md-heading-color: #202124; /* Cor para títulos (h1, h2, etc.) */
+  --md-paragraph-color: #3c4043; /* Cor para parágrafos */
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #103B61 !important;
+  --md-default-bg-color: #191a21; /* Fundo escuro */
+  --md-typeset-a-color: #103B61(255, 0, 0, 0.85) !important;
+  --md-typeset-table-color: rgba(255, 255, 255, 0.211);
+  --md-typeset-table-color--light: rgba(128, 128, 128, 0.157);
+  --md-heading-color: #202124; /* Cor para títulos (h1, h2, etc.) */
+  --md-paragraph-color: #3c4043; /* Cor para parágrafos */
+}
+  
+  [data-md-color-scheme="claro"] img[src$="#only-dark"],
+  [data-md-color-scheme="claro"] img[src$="#gh-dark-mode-only"] {
+    display: none;
+  }
+  
+  [data-md-color-scheme="slate"] img[src$="#only-light"],
+  [data-md-color-scheme="slate"] img[src$="#gh-light-mode-only"] {
+    display: none;
+  }
+  
+  body {
+    text-align: justify;
+  }
+  
+  p {
+    text-indent: 0;
+  }
+
+  .md-header__button.md-logo img, .md-header__button.md-logo svg {
+    width: 200px;
+    height: auto;
+
+  }
+  
+
+/* Centraliza a navbar */
+.md-grid {
+    display: flex;
+    justify-content: center;
+}
+
+/* Aumenta o tamanho da fonte e estiliza os itens da navbar */
+.md-tabs__link {
+    position: relative;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+}
+
+/* Adiciona a borda inferior */
+.md-tabs__link::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 0;
+    height: 2px;
+    background-color: transparent;
+}
+
+.md-header__ellipsis {
+  display: none;
+}
+
+
+
+/* Borda inferior azul claro quando a opção estiver selecionada */
+.md-tabs__item--active .md-tabs__link::after {
+    width: 100%;
+    background-color: rgb(91, 245, 194);
+}
+
+/* p {
+  text-indent: 0;
+  color: #3c4043;
+} */
+
+/* .md-typeset h1, .md-typeset h2, .md-typeset h3 {
+  color: #202124;
+  font-weight: 400;
+} */
+
+
+body {
+  text-align: justify;
+}
+
+/* TUDO ABAIXO É DO CÍRCULO DAS FASES DO CALIANDRA */
+
+.circle-layout-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh; /* Centraliza a div verticalmente */
+}
+
+.circle-layout-container {
+  position: relative;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto; /* Centraliza horizontalmente */
+}
+
+/* Garantindo que os links não afetem o layout */
+.circle-layout-container a {
+  position: absolute;
+  display: block;
+  text-decoration: none; /* Remove underline dos links */
+}
+
+.circle-layout-part {
+  width: 31%; /* Tamanho inicial das partes */
+  transition: all 0.3s ease-in-out;
+}
+
+.circle-layout-center {
+  width: 32%;
+  z-index: 1;
+}
+
+.circle-layout-part:hover {
+  cursor: pointer;
+  width: 38%;
+  z-index: 2;
+}
+
+.circle-layout-part1 { transform: rotate(0deg) translateY(-125px); }
+.circle-layout-part2 { transform: rotate(60deg) translateY(-125px); }
+.circle-layout-part3 { transform: rotate(120deg) translateY(-125px); }
+.circle-layout-part4 { transform: rotate(180deg) translateY(-125px) rotate(180deg); }
+.circle-layout-part5 { transform: rotate(240deg) translateY(-125px); }
+.circle-layout-part6 { transform: rotate(300deg) translateY(-125px); }
